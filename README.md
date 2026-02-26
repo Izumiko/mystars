@@ -954,6 +954,7 @@
 
 ## TypeScript 
 
+- [shuaiplus/NodeWarden](https://github.com/shuaiplus/NodeWarden) - A Bitwarden third-party server running on Cloudflare Workers——运行在 Cloudflare Workers 上的 Bitwarden 第三方服务端
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you.
 - [du2333/flare-stack-blog](https://github.com/du2333/flare-stack-blog) - 全栈个人博客，由Cloudflare全家桶驱动
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
