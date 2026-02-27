@@ -500,6 +500,7 @@
 
 ## JavaScript 
 
+- [ayaka-notes/overleaf-pro](https://github.com/ayaka-notes/overleaf-pro) - A web-based collaborative LaTeX editor, @Ayaka-notes Pro Edition. QQ Group: https://qm.qq.com/q/sHJevaAPFC
 - [bhaoo/Cuckoo](https://github.com/bhaoo/Cuckoo) - 🍭 一款MD风格的双栏 Typecho 主题
 - [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) - 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
 - [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent and qBittorrent: manage ED2K and BitTorrent downloads from a single modern web interface.
@@ -748,6 +749,7 @@
 
 ## Python 
 
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [limix-ldm-ai/LimiX](https://github.com/limix-ldm-ai/LimiX) - LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505
