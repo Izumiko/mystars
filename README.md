@@ -658,7 +658,7 @@
 
 ## Others 
 
-- [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - 在 claw 们统治人类之前，这是最后的尊严之战
+- [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - claw 们终将接管世界，PUAClaw is All You Need
 - [Nevuly/WSL2-Linux-Kernel-Rolling-LTS](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS) - Rolling Release LTS Kernel for Windows Subsystem for Linux2 (WSL2)
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
 - [KyokuSai/HSR](https://github.com/KyokuSai/HSR) - Models trained by us.
