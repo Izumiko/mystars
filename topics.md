@@ -1385,7 +1385,7 @@
 ## others 
 
 - [zt8989/eNode-go](https://github.com/zt8989/eNode-go) - 
-- [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - 在 claw 们统治人类之前，这是最后的尊严之战
+- [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - claw 们终将接管世界，PUAClaw is All You Need
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you.
