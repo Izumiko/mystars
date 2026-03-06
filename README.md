@@ -468,6 +468,7 @@
 
 ## HTML 
 
+- [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV) - ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV
 - [opulo-inc/lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 - [darshanbaral/aafu](https://github.com/darshanbaral/aafu) - Portfolio theme with blog.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -662,7 +663,7 @@
 - [Nevuly/WSL2-Linux-Kernel-Rolling-LTS](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS) - Rolling Release LTS Kernel for Windows Subsystem for Linux2 (WSL2)
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
 - [KyokuSai/HSR](https://github.com/KyokuSai/HSR) - Models trained by us.
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - OpenClash配置示例及订阅转换模板，无需套娃，无 DNS 泄漏
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 
 - [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Cloud storage-based web media player for DLsite voice works, powered by Go and Vue.js. / 基于云存储的DLsite音声作品管理和媒体播放软件，使用Go和Vue.js开发。
 - [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
 - [ziyao233/rk3528-mainline](https://github.com/ziyao233/rk3528-mainline) - Mainline status of RK3528 SoC.
@@ -763,7 +764,6 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [limix-ldm-ai/LimiX](https://github.com/limix-ldm-ai/LimiX) - LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505
-- [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV) - ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV
 - [timminator/VideOCR](https://github.com/timminator/VideOCR) - Extract hardcoded subtitles from videos via a simple GUI using machine learning
 - [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 - [talmolab/sleap-anipose](https://github.com/talmolab/sleap-anipose) - SLEAP to Anipose triangulation pipeline for 3D multi-animal pose tracking.
