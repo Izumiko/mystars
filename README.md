@@ -969,7 +969,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
-- [shuaiplus/NodeWarden](https://github.com/shuaiplus/NodeWarden) - A third-party Bitwarden server running on Cloudflare Workers
+- [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - A third-party Bitwarden server running on Cloudflare Workers
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you.
 - [du2333/flare-stack-blog](https://github.com/du2333/flare-stack-blog) - 全栈个人博客，由Cloudflare全家桶驱动
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
