@@ -224,6 +224,7 @@
 
 ## C++ 
 
+- [banderzhm/cnetmod](https://github.com/banderzhm/cnetmod) - Modern c++ 23 modules net.
 - [InWILL/Locale_Remulator](https://github.com/InWILL/Locale_Remulator) - System Region and Language Simulator.
 - [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 - [qiin2333/foundation-sunshine](https://github.com/qiin2333/foundation-sunshine) - Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.
@@ -403,7 +404,7 @@
 - [sot-tech/mochi](https://github.com/sot-tech/mochi) - A customizable, multi-protocol BitTorrent Tracker
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
@@ -760,6 +761,7 @@
 
 ## Python 
 
+- [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ/Telegram，支持本地中文输入法，支持三方应用，支持AMD64和ARM64。
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -966,6 +968,7 @@
 
 ## TypeScript 
 
+- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
