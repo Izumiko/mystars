@@ -1384,6 +1384,7 @@
 
 ## others 
 
+- [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern
 - [banderzhm/cnetmod](https://github.com/banderzhm/cnetmod) - Modern c++ 23 modules net.
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [zt8989/eNode-go](https://github.com/zt8989/eNode-go) - 
