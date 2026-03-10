@@ -470,6 +470,7 @@
 
 ## HTML 
 
+- [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - Claw 们终将接管世界，PUAClaw is All You Need
 - [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV) - ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV
 - [opulo-inc/lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 - [darshanbaral/aafu](https://github.com/darshanbaral/aafu) - Portfolio theme with blog.
@@ -661,7 +662,6 @@
 
 ## Others 
 
-- [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - claw 们终将接管世界，PUAClaw is All You Need
 - [Nevuly/WSL2-Linux-Kernel-Rolling-LTS](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS) - Rolling Release LTS Kernel for Windows Subsystem for Linux2 (WSL2)
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
 - [KyokuSai/HSR](https://github.com/KyokuSai/HSR) - Models trained by us.
