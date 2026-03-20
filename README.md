@@ -473,7 +473,6 @@
 ## HTML 
 
 - [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - Claw 们终将接管世界，PUAClaw is All You Need
-- [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV) - ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV
 - [opulo-inc/lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 - [darshanbaral/aafu](https://github.com/darshanbaral/aafu) - Portfolio theme with blog.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
@@ -773,6 +772,7 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [limix-ldm-ai/LimiX](https://github.com/limix-ldm-ai/LimiX) - LimiX: Unleashing Structured-Data Modeling Capability for Generalist Intelligence https://arxiv.org/abs/2509.03505
+- [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV) - ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV
 - [timminator/VideOCR](https://github.com/timminator/VideOCR) - Extract hardcoded subtitles from videos via a simple GUI using machine learning. Supports 100+ languages.
 - [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 - [talmolab/sleap-anipose](https://github.com/talmolab/sleap-anipose) - SLEAP to Anipose triangulation pipeline for 3D multi-animal pose tracking.
@@ -856,7 +856,7 @@
 ## Rust 
 
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
