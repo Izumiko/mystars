@@ -670,7 +670,7 @@
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
 - [KyokuSai/HSR](https://github.com/KyokuSai/HSR) - Models trained by us.
 - [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 
-- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Cloud storage-based web media player for DLsite voice works, powered by Go and Vue.js. / 基于云存储的DLsite音声作品管理和媒体播放软件，使用Go和Vue.js开发。
+- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Self-hosted streaming media server for DLsite voice works, powered by Go and Vue.js. / 面向 DLsite 音声作品的自托管流媒体服务器，使用 Go 和 Vue.js 开发。
 - [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
 - [ziyao233/rk3528-mainline](https://github.com/ziyao233/rk3528-mainline) - Mainline status of RK3528 SoC.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
