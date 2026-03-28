@@ -225,6 +225,7 @@
 
 ## C++ 
 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [eMuleAI/eMuleAI](https://github.com/eMuleAI/eMuleAI) - A modern fork of the classic open-source eMule P2P file sharing client.
 - [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern
 - [banderzhm/cnetmod](https://github.com/banderzhm/cnetmod) - Modern c++ 23 modules net.
@@ -377,6 +378,7 @@
 
 ## Go 
 
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [zt8989/eNode-go](https://github.com/zt8989/eNode-go) - 
 - [fireinrain/asmr-downloader](https://github.com/fireinrain/asmr-downloader) - A tool for download asmr media from asmr.one(Thanks for the asmr.one)
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
@@ -612,6 +614,8 @@
 
 ## Kotlin 
 
+- [rebelonion/echo-asmr-one](https://github.com/rebelonion/echo-asmr-one) - asmr.one extension for echo
+- [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) - Just a music player.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - Disable / Hide / Suspend / Uninstall Android apps without root.
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
@@ -792,7 +796,7 @@
 - [chenxinfeng4/ffmpegcv](https://github.com/chenxinfeng4/ffmpegcv) - The ffmpegcv is a ffmpeg backbone for open-cv like Video Reader and Writer
 - [tqxli/dannce-pytorch](https://github.com/tqxli/dannce-pytorch) - 
 - [spoonsso/dannce](https://github.com/spoonsso/dannce) - 
-- [alexhang212/3D-MuPPET](https://github.com/alexhang212/3D-MuPPET) - 
+- [alexhang212/3D-MuPPET](https://github.com/alexhang212/3D-MuPPET) - Repository for 3D-MuPPET: 3D Multi-Pigeon Pose Estimation and Tracking
 - [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) - 适配轻小说/Galgame的日中翻译大模型
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -868,7 +872,7 @@
 - [vicanso/http-stat-rs](https://github.com/vicanso/http-stat-rs) - Pure rust version of http statistics, which refer to httpstat, and supports http1, http2 and http3.
 - [james58899/hath-rust](https://github.com/james58899/hath-rust) - The unofficial Hentai@Home client written in Rust
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
-- [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to easily configure your favorite Linux distribution as a router using the web UI
+- [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - The goal is to make it easier to configure your favorite Linux distribution as a router. Built with Rust and eBPF.
 - [lunar-landing/rudis](https://github.com/lunar-landing/rudis) - Rudis is a high-performance in memory database
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
