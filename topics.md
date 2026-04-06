@@ -1437,7 +1437,7 @@
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you.
 - [du2333/flare-stack-blog](https://github.com/du2333/flare-stack-blog) - A modern full-stack blog CMS driven by Cloudflare. | 基于 Cloudflare 生态的全栈现代化博客 CMS。
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [bhaoo/Cuckoo](https://github.com/bhaoo/Cuckoo) - 🍭 一款MD风格的双栏 Typecho 主题
 - [vtumi/pico-fido](https://github.com/vtumi/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
