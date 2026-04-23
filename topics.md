@@ -1138,6 +1138,7 @@
 
 ## latex 
 
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [ayaka-notes/overleaf-pro](https://github.com/ayaka-notes/overleaf-pro) - A web-based collaborative LaTeX editor, forked from Overleaf, by @Ayaka-notes Pro Edition. QQ Group: https://qm.qq.com/q/sHJevaAPFC
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 - [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowerin
@@ -1399,7 +1400,7 @@
 
 ## obsidian 
 
-- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - 🎓 Academic portfolio that boosts your citations — not a PDF that gets lost. BibTeX auto-import, Jupyter notebooks, LaTeX math, presentation slides. AI generates your pages, you own them as Markdown. F
+- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - 🎓 Academic portfolio that boosts citations. AI generates pages, you own as Markdown. BibTeX auto-import, Jupyter, LaTeX, slides, visual block editor — free to host forever. 学术主页，AI 生成，Markdown 拥有 👇
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 
 ## obsidian-md 
@@ -1437,6 +1438,7 @@
 
 ## others 
 
+- [wangjq4214/buaa-thesis](https://github.com/wangjq4214/buaa-thesis) - 
 - [adonais/skylark](https://github.com/adonais/skylark) - Skylark Editor is written in C, a high performance text/hex editor.  Embedded Database-client/Redis-client/Lua-engine.  You can run Lua scripts and SQL files directly.
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -1897,7 +1899,7 @@
 ## portfolio-website 
 
 - [gethugothemes/academia-hugo](https://github.com/gethugothemes/academia-hugo) - Academia is a Hugo resume theme. You can showcase your academic resume, publications and talks using this theme.
-- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - 🎓 Academic portfolio that boosts your citations — not a PDF that gets lost. BibTeX auto-import, Jupyter notebooks, LaTeX math, presentation slides. AI generates your pages, you own them as Markdown. F
+- [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv) - 🎓 Academic portfolio that boosts citations. AI generates pages, you own as Markdown. BibTeX auto-import, Jupyter, LaTeX, slides, visual block editor — free to host forever. 学术主页，AI 生成，Markdown 拥有 👇
 
 ## postgresql 
 
@@ -2022,6 +2024,7 @@
 
 ## react 
 
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
@@ -2287,6 +2290,7 @@
 
 ## typescript 
 
+- [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - A third-party Bitwarden server running on Cloudflare Workers
 - [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
