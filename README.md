@@ -336,7 +336,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
 ## Crystal 
 
@@ -516,6 +516,7 @@
 
 ## JavaScript 
 
+- [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [GolLight/BetterPlayerPlugin](https://github.com/GolLight/BetterPlayerPlugin) - Jellyfin Web 播放器增强插件。 通过稳定注入优化脚本，全面增强 Web 播放器的键盘、鼠标和触控操作，提供类似 B 站 的沉浸式体验。未来版本将支持自定义外部脚本注入。An enhancement plugin for the Jellyfin web client. Stably injects optimization scripts to comprehensively enha
 - [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) - n8n 配置多语言
@@ -856,6 +857,7 @@
 - [felixonmars/fcitx5-pinyin-zhwiki](https://github.com/felixonmars/fcitx5-pinyin-zhwiki) - Fcitx 5 Pinyin Dictionary from zh.wikipedia.org
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [baowenbo/DAIN](https://github.com/baowenbo/DAIN) - Depth-Aware Video Frame Interpolation (CVPR 2019)
+- [KoalixSwitzerland/koalixcrm](https://github.com/KoalixSwitzerland/koalixcrm) - koalixcrm is an Open Source Python CRM and ERP based on django
 - [lrq3000/pyFileFixity](https://github.com/lrq3000/pyFileFixity) - 📂🛡️Suite of tools for file fixity (data protection for long term storage⌛) using redundant error correcting codes, hash auditing and duplications with majority vote, all in pure Python🐍
 - [chiro2001/Wenku8ToEpub](https://github.com/chiro2001/Wenku8ToEpub) - 把wenku8.net的小说转换成epub格式
 - [Li4n0/hugo_encryptor](https://github.com/Li4n0/hugo_encryptor) - A tools for encrypting hugo posts
@@ -1110,7 +1112,6 @@
 ## XSLT 
 
 - [Anime-Lists/anime-lists](https://github.com/Anime-Lists/anime-lists) - 
-- [KoalixSwitzerland/koalixcrm](https://github.com/KoalixSwitzerland/koalixcrm) - koalixcrm is an Open Source Python CRM and ERP based on django
 
 ## Zig 
 
