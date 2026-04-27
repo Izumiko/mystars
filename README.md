@@ -727,6 +727,7 @@
 
 ## PHP 
 
+- [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [Monica-Dis/Discuz-Free](https://github.com/Monica-Dis/Discuz-Free) - Discuz plugins and templates are free to share and download.Discuz!X3.4 X3.5插件、模板免费下载，西瓜分类信息全套插件、点微同城全套插件、可可全套插件、it618全套插件、飞鸟全套插件、子木全套插件、迪恩网络全套模板、星点互联全套模板、仁天际网络全套模板等。
 - [MatteoRagni/AmuleWebUI-Reloaded](https://github.com/MatteoRagni/AmuleWebUI-Reloaded) - A web interface for amuleweb. Reloaded style using Bootstrap, Glyphicons and jQuery!
 - [fresns/fresns](https://github.com/fresns/fresns) - Fresns core library: Cross-platform general-purpose multiple content forms social network service software
