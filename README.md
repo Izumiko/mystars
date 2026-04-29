@@ -213,7 +213,7 @@
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
 - [u2sb/Danmu.Server](https://github.com/u2sb/Danmu.Server) - 一个开源的弹幕后端
-- [JonasNilson/idle_master_extended](https://github.com/JonasNilson/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
+- [jonas-med-ett-s/idle_master_extended](https://github.com/jonas-med-ett-s/idle_master_extended) - 🃏 Get your Steam Trading Cards the Fast Way (Fast Mode Extension 🚀)
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
 - [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
@@ -683,7 +683,6 @@
 - [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
 - [ziyao233/rk3528-mainline](https://github.com/ziyao233/rk3528-mainline) - Mainline status of RK3528 SoC.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [coderonion/awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.
 - [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) - 
 - [Eternaldeath/AIProductHome](https://github.com/Eternaldeath/AIProductHome) - Collect various AI products | 搜集各种 AI 工具和产品
@@ -885,6 +884,7 @@
 - [lunar-landing/rudis](https://github.com/lunar-landing/rudis) - Rudis is a high-performance in memory database
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
@@ -1017,6 +1017,7 @@
 - [shareAI-lab/Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [xuemian168/android-locker](https://github.com/xuemian168/android-locker) - A comprehensive, community-maintained hub for comparing bootloader unlock, kernel source, and warranty policies across major Android manufacturers. Supports multilingual SEO (Chinese, Hindi, English) 
+- [auto-novel/auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) - 
 - [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) - PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
@@ -1098,7 +1099,6 @@
 ## Vue 
 
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-- [auto-novel/auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
 - [Yidadaa/Issue-Blog-With-Github-Action](https://github.com/Yidadaa/Issue-Blog-With-Github-Action) - A well-designed blog theme based on Vuepress and hosted on Github Actions.
