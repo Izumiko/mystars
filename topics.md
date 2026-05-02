@@ -754,7 +754,7 @@
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [msojocs/bilibili-linux](https://github.com/msojocs/bilibili-linux) - 基于哔哩哔哩官方客户端移植的Linux版本 支持漫游
 - [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 字幕机翻，翻译字幕文件 .srt .ass .vtt，和同类产品相比，特点是可以自己填写 API key，这样价格最低。最新版本 5.3.7 - 发布时间 2025 年 9 月 10 号
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
 - [StaZhu/enable-chromium-hevc-hardware-decoding](https://github.com/StaZhu/enable-chromium-hevc-hardware-decoding) - A guide that teach you enable hardware HEVC decoding & encoding for Chrome / Edge, or build a custom version of Chromium / Electron that supports hardware & software HEVC decoding and hardware HEVC en
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [deltachat/deltachat-desktop](https://github.com/deltachat/deltachat-desktop) - Decentralized private messenger with chat-shared tools and games for Desktop
@@ -2420,7 +2420,7 @@
 ## vuejs 
 
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 字幕机翻，翻译字幕文件 .srt .ass .vtt，和同类产品相比，特点是可以自己填写 API key，这样价格最低。最新版本 5.3.7 - 发布时间 2025 年 9 月 10 号
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 
 ## web 
