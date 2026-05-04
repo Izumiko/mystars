@@ -407,7 +407,6 @@
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [trzsz/trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - trzsz-ssh ( tssh ) is an ssh client designed as a drop-in replacement for the openssh client. It aims to provide complete compatibility with openssh, mirroring all its features, while also offering ad
 - [mrd0ll4r/chihaya-privtrak-middleware](https://github.com/mrd0ll4r/chihaya-privtrak-middleware) - A private tracker middleware for the chihaya BitTorrent tracker
-- [yliu7949/KouShare-dl](https://github.com/yliu7949/KouShare-dl) - KouShare-dl 是一个用于从“蔻享学术”视频网站下载视频和课件、录制直播的命令行工具。
 - [sot-tech/mochi](https://github.com/sot-tech/mochi) - A customizable, multi-protocol BitTorrent Tracker
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
@@ -692,7 +691,7 @@
 - [Nekomoekissaten-SUB/Nekomoekissaten-Subs](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs) - Subtitle source files from Nekomoe Kissaten. Should there be any issues, please create them in this main repository first.
 - [sophgocommunity/CV180-Duo](https://github.com/sophgocommunity/CV180-Duo) - Milk-V Duo is an ultra-compact embedded development platform based on the Sophgo CV1800B chip. It can run Linux and RTOS, 0.2TOPS computing power@INT8 for professionals, industrial ODMs, AIoT enthusia
 - [0wQ/test-1](https://github.com/0wQ/test-1) - 
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年5月4号更新 v5.5.1 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
 - [ESLyric/release](https://github.com/ESLyric/release) - 
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 - [tuic-protocol/tuic](https://github.com/tuic-protocol/tuic) - Delicately-TUICed 0-RTT proxy protocol
