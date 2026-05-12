@@ -1757,7 +1757,7 @@
 - [Synlvejo/buaalogin](https://github.com/Synlvejo/buaalogin) - a script for linux system to login to visit Internet
 - [African-Robotics-Unit/AcinoSet](https://github.com/African-Robotics-Unit/AcinoSet) - Camera calibration & 3D pose estimation tools for AcinoSet
 - [sunny/edith](https://github.com/sunny/edith) - The zero-UI Web notepad
-- [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers) - a lightweight header-only C++17 library of numerical optimization methods for (un-)constrained nonlinear functions and expression templates
+- [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers) - The fastest open-source C++17 optimization library for unconstrained nonlinear problems. Header-only, single dependency. Highest reliability, composable function expressions, unconstrained and constra
 - [stevengj/nlopt](https://github.com/stevengj/nlopt) - library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
 - [yjun123/e-waste](https://github.com/yjun123/e-waste) - electronic waste collection. 数码视讯 Q5, 泰奇猫 TQC-A01, 贝壳云 Beikeyun P1, 网心云 OEC Turbo,   外贸盒子 A5X Max,FMX1 电视盒子, 保千里 SC150MBN1 汽车夜视系统图传,  云盒 Sensoro SmartBeacon-4AA, 云子 Sensoro Yunzi, 若琪 繁星 Rokid Mini RP1
