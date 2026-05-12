@@ -290,7 +290,7 @@
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [YtFlow/Maple](https://github.com/YtFlow/Maple) - A lightweight Universal Windows proxy app based on https://github.com/eycorsican/leaf
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-- [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers) - a lightweight header-only C++17 library of numerical optimization methods for (un-)constrained nonlinear functions and expression templates
+- [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers) - The fastest open-source C++17 optimization library for unconstrained nonlinear problems. Header-only, single dependency. Highest reliability, composable function expressions, unconstrained and constra
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver) - A large scale non-linear optimization library
 - [kthohr/optim](https://github.com/kthohr/optim) - OptimLib: a lightweight C++ library of numerical optimization methods for nonlinear functions
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
