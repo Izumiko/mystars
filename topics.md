@@ -1518,7 +1518,7 @@
 - [banjiaojuhao/sharelatex-with-texlive-full](https://github.com/banjiaojuhao/sharelatex-with-texlive-full) - build latest sharelatex-with-texlive-full
 - [EFFXCT290/Obsidian](https://github.com/EFFXCT290/Obsidian) - 
 - [zhzhzhy/NinjiaTag-backend](https://github.com/zhzhzhy/NinjiaTag-backend) - 
-- [shareAI-lab/Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
+- [shareAI-lab/Kode-CLI](https://github.com/shareAI-lab/Kode-CLI) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
 - [PrelinaMontelli/Edge-Monitor](https://github.com/PrelinaMontelli/Edge-Monitor) - 一个监控并弄死异常Edge的程序
 - [rumanzo/bt2qbt](https://github.com/rumanzo/bt2qbt) - bt2qbt is cli tool for export from uTorrent\Bittorrent into qBittorrent
 - [picpo/All_Tieba_Sign_Mobile](https://github.com/picpo/All_Tieba_Sign_Mobile) - 百度贴吧 获取所有关注的贴吧 模拟手机端签到 的脚本
