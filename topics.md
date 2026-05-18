@@ -1466,6 +1466,7 @@
 
 ## others 
 
+- [cookjohn/zotero-mcp](https://github.com/cookjohn/zotero-mcp) - It's a plugin extension in Zotero.  Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP. Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全
 - [stipub/stixfonts](https://github.com/stipub/stixfonts) - OpenType Unicode fonts for Scientific, Technical, and Mathematical texts
 - [hzwer/Practical-RIFE](https://github.com/hzwer/Practical-RIFE) - More practical frame interpolation approach.
 - [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
