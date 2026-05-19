@@ -695,7 +695,7 @@
 - [Nekomoekissaten-SUB/Nekomoekissaten-Subs](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs) - Subtitle source files from Nekomoe Kissaten. Should there be any issues, please create them in this main repository first.
 - [sophgocommunity/CV180-Duo](https://github.com/sophgocommunity/CV180-Duo) - Milk-V Duo is an ultra-compact embedded development platform based on the Sophgo CV1800B chip. It can run Linux and RTOS, 0.2TOPS computing power@INT8 for professionals, industrial ODMs, AIoT enthusia
 - [0wQ/test-1](https://github.com/0wQ/test-1) - 
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年5月4号更新 v5.5.2 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年5月6号更新 v5.5.4 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
 - [ESLyric/release](https://github.com/ESLyric/release) - 
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 - [tuic-protocol/tuic](https://github.com/tuic-protocol/tuic) - Delicately-TUICed 0-RTT proxy protocol
@@ -783,6 +783,7 @@
 
 ## Python 
 
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [aliftype/xits](https://github.com/aliftype/xits) - XITS - OpenType implementation of STIX fonts with math support
 - [hzwer/Practical-RIFE](https://github.com/hzwer/Practical-RIFE) - More practical frame interpolation approach.
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - SlimBrave Neo — Debloat and harden Brave Browser on Linux and Windows. Python curses TUI + CLI. Zero dependencies.
@@ -844,7 +845,6 @@
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-- [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 - [ZeroQI/Absolute-Series-Scanner](https://github.com/ZeroQI/Absolute-Series-Scanner) - Seasons, absolute mode, Subfolders...
 - [mandarons/icloud-docker](https://github.com/mandarons/icloud-docker) - Dockerized iCloud Client - make a local copy of your iCloud documents and photos, and keep it automatically up-to-date.
 - [Nriver/qb-rss-manager](https://github.com/Nriver/qb-rss-manager) - qBittorrent rss订阅规则管理,  支持Docker环境, 群晖, Windows桌面, Linux桌面的qb. 推荐直接使用懒人包体验完整功能.
@@ -913,6 +913,7 @@
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
+- [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 - [biliup/biliup-rs](https://github.com/biliup/biliup-rs) - 命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [dndx/phantun](https://github.com/dndx/phantun) - Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
