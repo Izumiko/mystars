@@ -490,7 +490,7 @@
 
 ## cli 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -1221,7 +1221,7 @@
 
 ## llm 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
@@ -1442,7 +1442,6 @@
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [hsa00000/urocissa](https://github.com/hsa00000/urocissa) - Urocissa is a self-hosted photos gallery designed to serve massive collections, capable of handling millions of images and videos. It is built using Rust and Vue.
-- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
 
@@ -2114,7 +2113,7 @@
 
 ## rust 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
@@ -2212,7 +2211,7 @@
 
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [soruly/anilist-chinese](https://github.com/soruly/anilist-chinese) - Translate anime titles on anilist.co to Chinese
-- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
+- [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [harryzcy/mailbox](https://github.com/harryzcy/mailbox) - Versatile email infrastructure on AWS serverless
 
@@ -2313,7 +2312,7 @@
 
 ## terminal 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
@@ -2327,7 +2326,7 @@
 
 ## tui 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - SlimBrave Neo — Debloat and harden Brave Browser on Linux and Windows. Python curses TUI + CLI. Zero dependencies.
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI) - :computer: C++ Functional Terminal User Interface. :heart:
 
