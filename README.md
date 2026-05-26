@@ -329,7 +329,7 @@
 - [dginev/ar5iv](https://github.com/dginev/ar5iv) - A web service offering HTML5 articles from arXiv.org as converted with latexml
 - [idawnlight/typecho-theme-material](https://github.com/idawnlight/typecho-theme-material) - [LTS] Material Design theme for typecho.
 - [xcatliu/123](https://github.com/xcatliu/123) - The personal front page
-- [jesslyoung/Argon-Dokuwiki-Template](https://github.com/jesslyoung/Argon-Dokuwiki-Template) - Dokuwiki Template based on the Argon Design System
+- [jssbrynt/Argon-Dokuwiki-Template](https://github.com/jssbrynt/Argon-Dokuwiki-Template) - Dokuwiki Template based on the Argon Design System
 - [Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single) - 🎈 一个简洁大气，含夜间模式的 Typecho 博客主题
 - [nanxiaobei/hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🪺 A simple, clean, customizable Hugo theme
 - [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane) - A readable & concise theme for Hugo, color schemes to choose, easy to personalize. Working well since 2018.
@@ -879,7 +879,7 @@
 
 ## Rust 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for open source, open weight models
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI + CN-region endpoints + CNB mirror.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
