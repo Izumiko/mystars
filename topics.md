@@ -2001,7 +2001,6 @@
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - SlimBrave Neo — Debloat and harden Brave Browser on Linux and Windows. Python curses TUI + CLI. Zero dependencies.
 - [RapidAI/RapidDoc](https://github.com/RapidAI/RapidDoc) - A high-performance, open-source PDF data extraction tool.   一站式开源高性能数据提取工具，将复杂 PDF 文档转换为 Markdown 和 JSON 格式，使用onnx模型。
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
@@ -2072,7 +2071,7 @@
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
-- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
+- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [amphineko/reactiveneko](https://github.com/amphineko/reactiveneko) - Reactive atomicneko!
 - [openRin/Rin](https://github.com/openRin/Rin) - 🌸Publish faster with an edge-native blog powered by Cloudflare Workers, D1, and R2
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
@@ -2121,7 +2120,7 @@
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
-- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
+- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) - ⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.
 - [hsa00000/urocissa](https://github.com/hsa00000/urocissa) - Urocissa is a self-hosted photos gallery designed to serve massive collections, capable of handling millions of images and videos. It is built using Rust and Vue.
 - [james58899/hath-rust](https://github.com/james58899/hath-rust) - The unofficial Hentai@Home client written in Rust
@@ -2171,7 +2170,7 @@
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
-- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
+- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [hsa00000/urocissa](https://github.com/hsa00000/urocissa) - Urocissa is a self-hosted photos gallery designed to serve massive collections, capable of handling millions of images and videos. It is built using Rust and Vue.
 - [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Neokikoeru, which means "New Kikoeru" — Robust, fast, and easy-to-use self-hosted streaming media server for DLsite voice works.
