@@ -1026,7 +1026,7 @@
 - [gotoailab/modern_mermaid](https://github.com/gotoailab/modern_mermaid) - A modern, beautiful Mermaid.js editor with live preview, multiple themes, and high-quality export. Perfect for developers, designers, and product managers.
 - [tsukumijima/DPlayer](https://github.com/tsukumijima/DPlayer) - :lollipop: コメントを流せる素敵な HTML5 動画プレイヤー
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
-- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support (WIP)
+- [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [amphineko/reactiveneko](https://github.com/amphineko/reactiveneko) - Reactive atomicneko!
 - [EFFXCT290/Obsidian](https://github.com/EFFXCT290/Obsidian) - 
 - [shareAI-lab/Kode-CLI](https://github.com/shareAI-lab/Kode-CLI) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
