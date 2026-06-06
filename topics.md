@@ -2402,7 +2402,7 @@
 ## video 
 
 - [staxrip/staxrip](https://github.com/staxrip/staxrip) - 🎞 Video encoding GUI for Windows.
-- [tsukumijima/DPlayer](https://github.com/tsukumijima/DPlayer) - :lollipop: コメントを流せる素敵な HTML5 動画プレイヤー
+- [tsukumijima/DPlayer](https://github.com/tsukumijima/DPlayer) - :lollipop: コメントを流せる素敵な HTML5 動画プレイヤー (for KonomiTV)
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [hsa00000/urocissa](https://github.com/hsa00000/urocissa) - Urocissa is a self-hosted photos gallery designed to serve massive collections, capable of handling millions of images and videos. It is built using Rust and Vue.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
