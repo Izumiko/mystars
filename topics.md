@@ -41,6 +41,7 @@
 - [clojure](#clojure)
 - [cloud](#cloud)
 - [cms](#cms)
+- [coding](#coding)
 - [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -254,6 +255,7 @@
 
 ## ai 
 
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -526,6 +528,10 @@
 - [OrchardCMS/OrchardCore](https://github.com/OrchardCMS/OrchardCore) - Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
+## coding 
+
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
 ## command-line 
 
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -537,7 +543,7 @@
 
 ## compiler 
 
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [sophgo/tpu-mlir](https://github.com/sophgo/tpu-mlir) - Machine learning compiler based on MLIR for Sophgo TPU.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [lebab/lebab](https://github.com/lebab/lebab) - Turn your ES5 code into readable ES6. Lebab does the opposite of what Babel does.
@@ -1482,7 +1488,6 @@
 - [wangjq4214/buaa-thesis](https://github.com/wangjq4214/buaa-thesis) - The Typst template for BUAA thesis.
 - [adonais/skylark](https://github.com/adonais/skylark) - Skylark Editor is written in C, a high performance text/hex editor.  Embedded Database-client/Redis-client/Lua-engine.  You can run Lua scripts and SQL files directly.
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [GolLight/BetterPlayerPlugin](https://github.com/GolLight/BetterPlayerPlugin) - Jellyfin Web 播放器增强插件。 通过稳定注入优化脚本，全面增强 Web 播放器的键盘、鼠标和触控操作，提供类似 B 站 的沉浸式体验。未来版本将支持自定义外部脚本注入。An enhancement plugin for the Jellyfin web client. Stably injects optimization scripts to comprehensively enha
 - [shash29-dev/STEP](https://github.com/shash29-dev/STEP) - STEP: Simultaneous Tracking and Estimation of Pose for Animals and Humans
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
@@ -1505,7 +1510,7 @@
 - [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
 - [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent, qBittorrent, Deluge and Transmission: manage ED2K and BitTorrent downloads from a single modern web interface.
 - [gdy666/lucky](https://github.com/gdy666/lucky) - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser
-- [Wenmoux/checkbox](https://github.com/Wenmoux/checkbox) - 签到本地/云函数/青龙脚本( 刺猬猫小说|Acfun| 时光相册|书香门第论坛|绅士领域|好游快爆|埋堆堆|多看阅读|闪艺app|香网小说|晋江|橙光|什么值得买|网易蜗牛读书|网易云游戏平台|龙空论坛|NGA论坛|csdn|mt论坛|sf轻小说|猫耳FM|联想智选app|联想智选联想延保|联动云租车|数码之家|玩物志好物商店|togamemod|好书友论坛|鱼C论坛|帆软社区|村花论坛|纪录片之
+- [Wenmoux/checkbox](https://github.com/Wenmoux/checkbox) - 签到本地/云函数/青龙脚本( 刺猬猫小说|Acfun| 时光相册|书香门第论坛|绅士领域|好游快爆|埋堆堆|多看阅读|闪艺app|香网小说|晋江|橙光|什么值得买|网易蜗牛读书|网易云游戏平台|龙空论坛|NGA论坛|csdn|mt论坛|sf轻小说|猫耳FM|联想智选app|联想智选|数码之家|AI风月|togamemod|好书友论坛|鱼C论坛|帆软社区|村花论坛|纪录片之家|富贵论坛|ug爱好者|
 - [yige233/navidrome-webui-lyric-fix](https://github.com/yige233/navidrome-webui-lyric-fix) - navidrome webui 歌词显示优化
 - [InWILL/Locale_Remulator](https://github.com/InWILL/Locale_Remulator) - System Region and Language Simulator.
 - [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
@@ -1972,7 +1977,7 @@
 
 ## programming 
 
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## programming-language 
@@ -2008,7 +2013,7 @@
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowerin
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [NevermindNilas/TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) - A high-performance tool for video upscaling, interpolation, depth estimation, and more. Available as a CLI and Adobe Extension.
 - [Yuukiy/JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
