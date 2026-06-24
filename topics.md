@@ -700,7 +700,7 @@
 - [casdoor/casnode](https://github.com/casdoor/casnode) - Open-Source Forum and Social Platform, Alternative to StackOverflow & Flarum
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ/Telegram，支持本地中文输入法，支持三方应用，支持AMD64和ARM64。
-- [ayaka-notes/overleaf-pro](https://github.com/ayaka-notes/overleaf-pro) - A web-based collaborative LaTeX editor, forked from Overleaf, by @Ayaka-notes Pro Edition. QQ Group: https://qm.qq.com/q/sHJevaAPFC
+- [ayaka-notes/overleaf-pro](https://github.com/ayaka-notes/overleaf-pro) - A web-based collaborative LaTeX editor, extended from Overleaf, by @Ayaka-notes Pro Edition. QQ Group: https://qm.qq.com/q/sHJevaAPFC
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [Dotnet-Boxed/Templates](https://github.com/Dotnet-Boxed/Templates) - .NET project templates with batteries included, providing the minimum amount of code required to get you going faster.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -1171,7 +1171,7 @@
 ## latex 
 
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
-- [ayaka-notes/overleaf-pro](https://github.com/ayaka-notes/overleaf-pro) - A web-based collaborative LaTeX editor, forked from Overleaf, by @Ayaka-notes Pro Edition. QQ Group: https://qm.qq.com/q/sHJevaAPFC
+- [ayaka-notes/overleaf-pro](https://github.com/ayaka-notes/overleaf-pro) - A web-based collaborative LaTeX editor, extended from Overleaf, by @Ayaka-notes Pro Edition. QQ Group: https://qm.qq.com/q/sHJevaAPFC
 - [billryan/resume](https://github.com/billryan/resume) - An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git
 - [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowerin
 - [wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css) - magically playful, yet simple styling. all in one file.
@@ -1619,7 +1619,7 @@
 - [syt2/zotero-scipdf](https://github.com/syt2/zotero-scipdf) - Download PDF from Sci-Hub automatically For Zotero7
 - [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式 - Zotero 中文社区
 - [zhangjiequan/AssetStudio](https://github.com/zhangjiequan/AssetStudio) - AssetStudio - Based on the archived Perfare's AssetStudio, I continue Perfare's work to keep AssetStudio up-to-date, with support for new Unity versions and additional improvements.
-- [FlandiaYingman/sna](https://github.com/FlandiaYingman/sna) - An external tool to add "Extract Here (Smart)" on Windows.
+- [flandia/sna](https://github.com/flandia/sna) - An external tool to add "Extract Here (Smart)" on Windows.
 - [PlexPt/rocket-pt](https://github.com/PlexPt/rocket-pt) - 基于 Java 的私有PT(private tracker)站点系统，可以提供高质量的连接服务和简单易用的界面。base on NexusPHP。
 - [alx-xlx/backup-website-to-cloud](https://github.com/alx-xlx/backup-website-to-cloud) - This is a script to push a backup of your website, forum etc to Cloud Storage using rclone
 - [Yidadaa/Issue-Blog-With-Github-Action](https://github.com/Yidadaa/Issue-Blog-With-Github-Action) - A well-designed blog theme based on Vuepress and hosted on Github Actions.
