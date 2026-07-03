@@ -881,6 +881,7 @@
 
 ## Rust 
 
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [scipenai/tylax](https://github.com/scipenai/tylax) - A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface.
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
