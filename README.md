@@ -394,7 +394,7 @@
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
 - [rumanzo/bt2qbt](https://github.com/rumanzo/bt2qbt) - bt2qbt is cli tool for export from uTorrent\Bittorrent into qBittorrent
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
-- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [lee86/LRC4StreamMusic](https://github.com/lee86/LRC4StreamMusic) - 支持音流歌词接口API的歌词插件，go实现QQ音乐歌词查询
@@ -812,7 +812,7 @@
 - [amd/gaia](https://github.com/amd/gaia) - Build AI agents for your PC
 - [picpo/All_Tieba_Sign_Mobile](https://github.com/picpo/All_Tieba_Sign_Mobile) - 百度贴吧 获取所有关注的贴吧 模拟手机端签到 的脚本
 - [SideCloudGroup/BetterForward](https://github.com/SideCloudGroup/BetterForward) - Designed for better message forwarding in Telegram.
-- [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本，直接调用 B 站 API，非 OCR 实现
+- [Karben233/bili-hardcore](https://github.com/Karben233/bili-hardcore) - bilibili 硬核会员 AI 自动答题脚本
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [chenxinfeng4/ffmpegcv](https://github.com/chenxinfeng4/ffmpegcv) - The ffmpegcv is a ffmpeg backbone for open-cv like Video Reader and Writer
 - [tqxli/dannce-pytorch](https://github.com/tqxli/dannce-pytorch) - 
