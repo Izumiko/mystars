@@ -682,6 +682,7 @@
 - [Nevuly/WSL2-Linux-Kernel-Rolling-LTS](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS) - Rolling Release LTS Kernel for Windows Subsystem for Linux2 (WSL2)
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
 - [KyokuSai/HSR](https://github.com/KyokuSai/HSR) - Models trained by us.
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃其他插件即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验，配套自动化域名规则提交机器人。
 - [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Neokikoeru, which means "New Kikoeru" — Robust, fast, and easy-to-use self-hosted streaming media server for DLsite voice works.
 - [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
 - [ziyao233/rk3528-mainline](https://github.com/ziyao233/rk3528-mainline) - Mainline status of RK3528 SoC.
