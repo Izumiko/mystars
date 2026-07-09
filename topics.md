@@ -1507,6 +1507,7 @@
 
 ## others 
 
+- [Hmily-LCG/FlowMouse](https://github.com/Hmily-LCG/FlowMouse) - 一款追求极致流畅的开源鼠标手势扩展。指尖滑动，进入心流。支持手势导航、超级拖拽、滚轮手势、特殊手势，并可自定义所有手势及更多功能。 / An open-source mouse gesture extension designed for ultimate smoothness. Swipe your fingertips, enter the Flow. Supports gesture nav
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [jiz4oh/efb-telegram-master](https://github.com/jiz4oh/efb-telegram-master) - EFB Telegram Master Channel, a channel for EH Forwarder Bot.
 - [scipenai/tylax](https://github.com/scipenai/tylax) - A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface.
@@ -1630,7 +1631,7 @@
 - [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
 - [fffb/FolderMenuList](https://github.com/fffb/FolderMenuList) - List currently open folders in the Open/Save dialogue box
 - [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) - 
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
+- [OwO-Network/DLX](https://github.com/OwO-Network/DLX) - DLX - Self-hosted translation API server. Unofficial; not affiliated with DeepL SE.
 - [pms67/HadesFCS](https://github.com/pms67/HadesFCS) - Complete flight control system designed from scratch. Hardware designed with KiCad.
 - [chenaive/fuck-xxxmoe](https://github.com/chenaive/fuck-xxxmoe) - 
 - [appotry/PTtool](https://github.com/appotry/PTtool) - 自动化硬链接工具，在最大可能情况下节约空间，并保持做种。 小于1M的文件直接复制，刮削修改nfo等小文件不影响做种。 大于1M的文件硬链接到目的目录，可以随意修改文件名。
