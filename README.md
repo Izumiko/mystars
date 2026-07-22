@@ -527,7 +527,7 @@
 - [Hmily-LCG/FlowMouse](https://github.com/Hmily-LCG/FlowMouse) - 一款追求极致流畅的开源鼠标手势扩展。指尖滑动，进入心流。支持手势导航、超级拖拽、滚轮手势、特殊手势，并可自定义所有手势及更多功能。 / An open-source mouse gesture extension designed for ultimate smoothness. Swipe your fingertips, enter the Flow. Supports gesture nav
 - [JuliaPluto/Pluto.jl](https://github.com/JuliaPluto/Pluto.jl) - 🎈 Simple reactive notebooks for Julia
 - [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [GolLight/BetterPlayerPlugin](https://github.com/GolLight/BetterPlayerPlugin) - Jellyfin Web 播放器增强插件。 通过稳定注入优化脚本，全面增强 Web 播放器的键盘、鼠标和触控操作，提供类似 B 站 的沉浸式体验。未来版本将支持自定义外部脚本注入。An enhancement plugin for the Jellyfin web client. Stably injects optimization scripts to comprehensively enha
 - [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) - n8n 配置多语言
 - [czottmann/kagi-ken-mcp](https://github.com/czottmann/kagi-ken-mcp) - Unofficial MCP server for working with Kagi *without* API access (you'll need to be a customer). Searches and summarizes. Uses Kagi session token for easy authentication. Works well with your agent.
