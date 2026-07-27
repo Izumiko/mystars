@@ -537,10 +537,11 @@
 - [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent, qBittorrent, Deluge and Transmission: manage ED2K and BitTorrent downloads from a single modern web interface.
 - [Wenmoux/checkbox](https://github.com/Wenmoux/checkbox) - 签到本地/云函数/青龙脚本( 刺猬猫小说|Acfun| 时光相册|书香门第论坛|绅士领域|好游快爆|埋堆堆|多看阅读|闪艺app|香网小说|晋江|橙光|什么值得买|网易蜗牛读书|网易云游戏平台|龙空论坛|NGA论坛|csdn|mt论坛|sf轻小说|猫耳FM|联想智选app|联想智选|数码之家|AI风月|togamemod|好书友论坛|鱼C论坛|帆软社区|村花论坛|纪录片之家|富贵论坛|ug爱好者|
 - [yige233/navidrome-webui-lyric-fix](https://github.com/yige233/navidrome-webui-lyric-fix) - navidrome webui 歌词显示优化
-- [huangxd-/danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
+- [huangxd-/danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔咪人韩巴狐乐西埋帆红弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/hf等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 - [Number178/kikoeru-express](https://github.com/Number178/kikoeru-express) - kikoeru backend support RJ/BJ/VJ/Custom 6 or 8 digits code
 - [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
 - [soruly/anilist-chinese](https://github.com/soruly/anilist-chinese) - Translate anime titles on anilist.co to Chinese
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [zqzess/rule_for_quantumultX](https://github.com/zqzess/rule_for_quantumultX) - 自用Surge等代理app规则与配置，自用js脚本，爬虫每周自动更新规则
 - [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 - [wangwangit/nav](https://github.com/wangwangit/nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
@@ -885,6 +886,7 @@
 
 ## Rust 
 
+- [bczhc/qmc-dec](https://github.com/bczhc/qmc-dec) - 
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [scipenai/tylax](https://github.com/scipenai/tylax) - A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface.
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
@@ -948,7 +950,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [PatchouliTC/Tailscale-DERP-Docker](https://github.com/PatchouliTC/Tailscale-DERP-Docker) - Docker container to self host Tailscale DERP server
 - [kekylin/debnas](https://github.com/kekylin/debnas) - 一个将Debian快速配置成准NAS系统的脚本。
-- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - An OpenClash-focused configuration and resource repository featuring setup guides, subscription conversion templates, rule snippets, utility scripts, overwrite resources, IPv6 guidance, and troublesho
+- [Aethersailor/Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 面向 OpenClash 用户的综合配置与扩展资源库，提供图文设置方案、订阅转换模板、YAML 配置示例与远程 YAML 部署方式，收录直连、代理、Steam CDN、加密 DNS 及游戏等规则碎片，并配套 OpenClash 安装、更新与架构检测脚本、覆写模块资源，以及 IPv6 配置方案和故障排除文档。
 - [NVIDIA/enroot](https://github.com/NVIDIA/enroot) - A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - Supports running OpenWrt on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [abcfy2/aria2-static-build](https://github.com/abcfy2/aria2-static-build) - aria2 static build, support cross compile
@@ -1042,7 +1044,6 @@
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [xuemian168/android-locker](https://github.com/xuemian168/android-locker) - A comprehensive, community-maintained hub for comparing bootloader unlock, kernel source, and warranty policies across major Android manufacturers. Supports multilingual SEO (Chinese, Hindi, English) 
 - [auto-novel/auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) - 
 - [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) - PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
