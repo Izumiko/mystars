@@ -237,7 +237,7 @@
 - [banderzhm/cnetmod](https://github.com/banderzhm/cnetmod) - Modern C++23 Modules asynchronous network library, cross-platform, stackless coroutine
 - [InWILL/Locale_Remulator](https://github.com/InWILL/Locale_Remulator) - System Region and Language Simulator.
 - [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
-- [AlkaidLab/foundation-sunshine](https://github.com/AlkaidLab/foundation-sunshine) - Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.
+- [AlkaidLab/foundation-sunshine](https://github.com/AlkaidLab/foundation-sunshine) - Sunshine fork: an enhanced sunshine, a self-hosted game streaming host for Moonlight with HDR10/HDR Vivid, virtual displays, advanced audio, optimized encoders, and a modern control panel.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [nccrrv/Top-AMS](https://github.com/nccrrv/Top-AMS) - 
 - [fooyin/fooyin](https://github.com/fooyin/fooyin) - A customisable music player
@@ -419,7 +419,7 @@
 - [yliu7949/KouShare-dl](https://github.com/yliu7949/KouShare-dl) - KouShare-dl 是一个用于从“蔻享学术”视频网站下载视频和课件、录制直播的命令行工具。
 - [sot-tech/mochi](https://github.com/sot-tech/mochi) - A customizable, multi-protocol BitTorrent Tracker
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
-- [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
+- [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
