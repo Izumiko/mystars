@@ -611,6 +611,7 @@
 
 ## cryptography 
 
+- [TheMaxMur/RS-Key](https://github.com/TheMaxMur/RS-Key) - Turn a $5 Raspberry Pi RP2350 board into an open-source hardware passkey: WebAuthn/FIDO2 logins, ssh & git signing, OpenPGP, PIV, TOTP. Rust firmware, no_std.
 - [polhenarejos/pico-hsm](https://github.com/polhenarejos/pico-hsm) - Hardware Security Module (HSM) for Raspberry Pico and ESP32
 - [polhenarejos/pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 
@@ -1515,6 +1516,7 @@
 
 ## others 
 
+- [librekeys/pico-fido2](https://github.com/librekeys/pico-fido2) - Pico Fido + Pico OpenPGP
 - [bczhc/qmc-dec](https://github.com/bczhc/qmc-dec) - 
 - [tsl0922/EPD-nRF5](https://github.com/tsl0922/EPD-nRF5) - E-paper display firmware for Nordic nRF51/nRF52, with support for image transfer, OTA update.
 - [dengxibo/sumatrapdf-plus](https://github.com/dengxibo/sumatrapdf-plus) - 
