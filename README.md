@@ -94,6 +94,7 @@
 
 ## C 
 
+- [librekeys/pico-fido2](https://github.com/librekeys/pico-fido2) - Pico Fido + Pico OpenPGP
 - [tsl0922/EPD-nRF5](https://github.com/tsl0922/EPD-nRF5) - E-paper display firmware for Nordic nRF51/nRF52, with support for image transfer, OTA update.
 - [dengxibo/sumatrapdf-plus](https://github.com/dengxibo/sumatrapdf-plus) - 
 - [adonais/skylark](https://github.com/adonais/skylark) - Skylark Editor is written in C, a high performance text/hex editor.  Embedded Database-client/Redis-client/Lua-engine.  You can run Lua scripts and SQL files directly.
@@ -885,6 +886,7 @@
 
 ## Rust 
 
+- [TheMaxMur/RS-Key](https://github.com/TheMaxMur/RS-Key) - Turn a $5 Raspberry Pi RP2350 board into an open-source hardware passkey: WebAuthn/FIDO2 logins, ssh & git signing, OpenPGP, PIV, TOTP. Rust firmware, no_std.
 - [bczhc/qmc-dec](https://github.com/bczhc/qmc-dec) - 
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [scipenai/tylax](https://github.com/scipenai/tylax) - A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface.
