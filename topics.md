@@ -1603,7 +1603,7 @@
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
 - [arun11299/cpp-subprocess](https://github.com/arun11299/cpp-subprocess) - Subprocessing with modern C++
 - [zeromake/aria2-zero](https://github.com/zeromake/aria2-zero) - fork aria2 support msvc
-- [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，最简单易用的免费二开框架,微信ipad登录（非HOOK破解桌面端）
+- [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，企业微信二次开发，最简单易用的免费二开框架,RPA技术（非HOOK破解桌面端）
 - [saltpi/iPlay](https://github.com/saltpi/iPlay) - Enjoy Media Everywhere, On Every Platform 👀
 - [lee86/LRC4StreamMusic](https://github.com/lee86/LRC4StreamMusic) - 支持音流歌词接口API的歌词插件，go实现QQ音乐歌词查询
 - [i486/VxKex](https://github.com/i486/VxKex) - Windows 7 API Extensions
