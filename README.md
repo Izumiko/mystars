@@ -515,7 +515,7 @@
 
 - [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载、刮削、洗版
 - [LuckyPuppy514/jproxy](https://github.com/LuckyPuppy514/jproxy) - 介于 Sonarr / Radarr 和 Jackett / Prowlarr 之间的代理，主要用于优化查询和提升识别率 | A proxy between Sonarr / Radarr and Jackett / Prowlarr, mainly used to optimize search and improve recognition rate
-- [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，最简单易用的免费二开框架,微信ipad登录（非HOOK破解桌面端）
+- [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，企业微信二次开发，最简单易用的免费二开框架,RPA技术（非HOOK破解桌面端）
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [PlexPt/rocket-pt](https://github.com/PlexPt/rocket-pt) - 基于 Java 的私有PT(private tracker)站点系统，可以提供高质量的连接服务和简单易用的界面。base on NexusPHP。
