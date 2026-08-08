@@ -1270,7 +1270,7 @@
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
 - [meizhong986/WhisperJAV](https://github.com/meizhong986/WhisperJAV) - ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
-- [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
+- [ROCm/FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [coderonion/awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.
@@ -1681,7 +1681,6 @@
 - [PeterSuh-Q3/tinycore-redpill](https://github.com/PeterSuh-Q3/tinycore-redpill) - 
 - [fhh200000/archlinux-arm-mainline-catdrive](https://github.com/fhh200000/archlinux-arm-mainline-catdrive) - Essential patches & tweaks on Archlinux ARM mainline kernel for Catdrive.
 - [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(企业级 H5 UI 组件库，无框架，即插即用。)
-- [coddingtonbear/obsidian-web](https://github.com/coddingtonbear/obsidian-web) - Connect your web browser with your notes in Obsidian.
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault.
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 - [KoiRealm/FishTracker](https://github.com/KoiRealm/FishTracker) - A flexible BitTorrent Tracker server based on ASP.NET Core.
