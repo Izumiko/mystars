@@ -75,7 +75,7 @@
 
 ## Astro 
 
-- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 流萤，清新美观的 Astro 静态博客主题模板 | Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari.
+- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 🍀Firefly, fresh and aesthetic Astro Blog theme template.  流萤，清新美观的 Astro 静态博客主题模板
 
 ## AutoHotkey 
 
