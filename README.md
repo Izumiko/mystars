@@ -75,7 +75,7 @@
 
 ## Astro 
 
-- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 🍀Firefly, fresh and aesthetic Astro Blog theme template.  流萤，清新美观的 Astro 静态博客主题模板
+- [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 🍀Firefly, fresh and aesthetic Astro blog theme template.  流萤，清新美观的 Astro 静态博客主题模板
 
 ## AutoHotkey 
 
@@ -781,7 +781,6 @@
 
 ## PowerShell 
 
-- [Utopia-V/codex-deepseek-subagent](https://github.com/Utopia-V/codex-deepseek-subagent) - Run DeepSeek V4 Flash as a native Codex subagent without replacing the OpenAI main agent.
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 
@@ -791,6 +790,7 @@
 
 ## Python 
 
+- [Utopia-V/codex-deepseek-subagent](https://github.com/Utopia-V/codex-deepseek-subagent) - Run DeepSeek V4 Flash as a native Codex subagent without replacing the OpenAI main agent.
 - [jiz4oh/efb-telegram-master](https://github.com/jiz4oh/efb-telegram-master) - EFB Telegram Master Channel, a channel for EH Forwarder Bot.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [aliftype/xits](https://github.com/aliftype/xits) - XITS - OpenType implementation of STIX fonts with math support
