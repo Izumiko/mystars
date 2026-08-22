@@ -432,7 +432,7 @@
 - [go-sonic/sonic](https://github.com/go-sonic/sonic) - Sonic is a blogging platform developed by Go. Simple and powerful
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [harryzcy/mailbox](https://github.com/harryzcy/mailbox) - Versatile email infrastructure on AWS serverless
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui) - Wireguard web interface
@@ -703,7 +703,7 @@
 - [Nekomoekissaten-SUB/Nekomoekissaten-Subs](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs) - Subtitle source files from Nekomoe Kissaten. Should there be any issues, please create them in this main repository first.
 - [sophgocommunity/CV180-Duo](https://github.com/sophgocommunity/CV180-Duo) - Milk-V Duo is an ultra-compact embedded development platform based on the Sophgo CV1800B chip. It can run Linux and RTOS, 0.2TOPS computing power@INT8 for professionals, industrial ODMs, AIoT enthusia
 - [0wQ/test-1](https://github.com/0wQ/test-1) - 
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年8月15号更新 v5.5.20 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。你只需要拖入字幕，点击翻译就行了。软件有网页版（zimoo.app）和桌面版。主要特点：用户可以自己填 API key。BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年8月22号更新 v5.5.23 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。你只需要拖入字幕，点击翻译就行了。软件有网页版（zimoo.app）和桌面版。主要特点：用户可以自己填 API key。BYOK（Bring Your Own Key）
 - [ESLyric/release](https://github.com/ESLyric/release) - 
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 - [tuic-protocol/tuic](https://github.com/tuic-protocol/tuic) - Delicately-TUICed 0-RTT proxy protocol
@@ -893,7 +893,7 @@
 - [bczhc/qmc-dec](https://github.com/bczhc/qmc-dec) - 
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [scipenai/tylax](https://github.com/scipenai/tylax) - A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source, community-driven agent harness
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
