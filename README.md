@@ -536,7 +536,7 @@
 - [GolLight/BetterPlayerPlugin](https://github.com/GolLight/BetterPlayerPlugin) - Jellyfin Web 播放器增强插件。 通过稳定注入优化脚本，全面增强 Web 播放器的键盘、鼠标和触控操作，提供类似 B 站 的沉浸式体验。未来版本将支持自定义外部脚本注入。An enhancement plugin for the Jellyfin web client. Stably injects optimization scripts to comprehensively enha
 - [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) - n8n 配置多语言
 - [czottmann/kagi-ken-mcp](https://github.com/czottmann/kagi-ken-mcp) - Unofficial MCP server for working with Kagi *without* API access (you'll need to be a customer). Searches and summarizes. Uses Kagi session token for easy authentication. Works well with your agent.
-- [ayaka-notes/ayakaleaf-pro](https://github.com/ayaka-notes/ayakaleaf-pro) - A web-based collaborative LaTeX editor, extended from Overleaf, formerly @Ayaka-notes Overleaf Pro Edition.
+- [ayaka-notes/ayakaleaf-pro](https://github.com/ayaka-notes/ayakaleaf-pro) - A web-based collaborative LaTeX editor, extended from Overleaf, formerly @Ayaka-notes Overleaf Pro Edition. Gourp: https://qm.qq.com/q/a7SJH0fDzi
 - [bhaoo/Cuckoo](https://github.com/bhaoo/Cuckoo) - 🍭 一款MD风格的双栏 Typecho 主题
 - [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) - 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
 - [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent, qBittorrent, Deluge and Transmission: manage ED2K and BitTorrent downloads from a single modern web interface.
