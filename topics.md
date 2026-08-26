@@ -99,6 +99,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
+- [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -125,6 +126,7 @@
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
+- [localization](#localization)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -1056,6 +1058,10 @@
 
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 
+## homebrew 
+
+- [x6nux/zed-globalization](https://github.com/x6nux/zed-globalization) - Zed 编辑器汉化版 / 中文版 / 多语言版 — AI 驱动全自动翻译构建，支持简繁中文/日语/韩语 | Zed Editor Localized with AI-powered translation pipeline
+
 ## html 
 
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 程序员鱼皮原创项目，免费的闯关交互式 SQL 自学教程网站，从零基础到进阶，带你掌握常用 SQL 语法（MySQL、SQLite、PostgreSQL）、快速学习 SQL 和数据库。支持在线SQL编辑器、实时查询结果、语法高亮、SQL运行广场等功能。纯前端实现，简单易学~
@@ -1237,6 +1243,7 @@
 
 ## linux 
 
+- [x6nux/zed-globalization](https://github.com/x6nux/zed-globalization) - Zed 编辑器汉化版 / 中文版 / 多语言版 — AI 驱动全自动翻译构建，支持简繁中文/日语/韩语 | Zed Editor Localized with AI-powered translation pipeline
 - [aprillz/MewUI](https://github.com/aprillz/MewUI) - A cross-platform and lightweight, code-first .NET GUI framework aimed at NativeAOT.
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - SlimBrave Neo — Debloat and harden Brave Browser on Linux and Windows. Python curses TUI + CLI. Zero dependencies.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -1287,6 +1294,10 @@
 - [sophgo/tpu-mlir](https://github.com/sophgo/tpu-mlir) - Machine learning compiler based on MLIR for Sophgo TPU.
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 
+## localization 
+
+- [x6nux/zed-globalization](https://github.com/x6nux/zed-globalization) - Zed 编辑器汉化版 / 中文版 / 多语言版 — AI 驱动全自动翻译构建，支持简繁中文/日语/韩语 | Zed Editor Localized with AI-powered translation pipeline
+
 ## low-code 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -1325,6 +1336,7 @@
 
 ## macos 
 
+- [x6nux/zed-globalization](https://github.com/x6nux/zed-globalization) - Zed 编辑器汉化版 / 中文版 / 多语言版 — AI 驱动全自动翻译构建，支持简繁中文/日语/韩语 | Zed Editor Localized with AI-powered translation pipeline
 - [aprillz/MewUI](https://github.com/aprillz/MewUI) - A cross-platform and lightweight, code-first .NET GUI framework aimed at NativeAOT.
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
@@ -2182,6 +2194,7 @@
 
 ## rust 
 
+- [x6nux/zed-globalization](https://github.com/x6nux/zed-globalization) - Zed 编辑器汉化版 / 中文版 / 多语言版 — AI 驱动全自动翻译构建，支持简繁中文/日语/韩语 | Zed Editor Localized with AI-powered translation pipeline
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
@@ -2562,6 +2575,7 @@
 
 ## windows 
 
+- [x6nux/zed-globalization](https://github.com/x6nux/zed-globalization) - Zed 编辑器汉化版 / 中文版 / 多语言版 — AI 驱动全自动翻译构建，支持简繁中文/日语/韩语 | Zed Editor Localized with AI-powered translation pipeline
 - [dengxibo/sumatrapdf-plus](https://github.com/dengxibo/sumatrapdf-plus) - Unofficial SumatraPDF fork: Chinese EPUB/MOBI, smart PDF dark mode, OCR, TTS, offline dictionary.
 - [aprillz/MewUI](https://github.com/aprillz/MewUI) - A cross-platform and lightweight, code-first .NET GUI framework aimed at NativeAOT.
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
