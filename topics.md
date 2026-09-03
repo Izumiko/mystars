@@ -1699,7 +1699,7 @@
 - [TNTwise/rife-ncnn-vulkan](https://github.com/TNTwise/rife-ncnn-vulkan) - RIFE, Real-Time Intermediate Flow Estimation for Video Frame Interpolation implemented with ncnn library
 - [gepruts/QuickSwitch](https://github.com/gepruts/QuickSwitch) - Uses opened file manager folders in File dialogs
 - [WordPress/sqlite-database-integration](https://github.com/WordPress/sqlite-database-integration) - Feature Plugin to add SQLite support to WordPress. Under Development.
-- [PeterSuh-Q3/tinycore-redpill](https://github.com/PeterSuh-Q3/tinycore-redpill) - 
+- [PeterSuh-Q3/tinycore-redpill](https://github.com/PeterSuh-Q3/tinycore-redpill) - MSHELL is an Alpine Linux-based environment for building, configuring, and recovering Synology DSM bootloaders.
 - [fhh200000/archlinux-arm-mainline-catdrive](https://github.com/fhh200000/archlinux-arm-mainline-catdrive) - Essential patches & tweaks on Archlinux ARM mainline kernel for Catdrive.
 - [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(企业级 H5 UI 组件库，无框架，即插即用。)
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault.
