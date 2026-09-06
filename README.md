@@ -652,7 +652,7 @@
 
 ## Lua 
 
-- [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。Q群：11033572 / 11631066
+- [amzxyz/rime-wanxiang](https://github.com/amzxyz/rime-wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Openwrt-Passwall/openwrt-passwall](https://github.com/Openwrt-Passwall/openwrt-passwall) - 
 - [peter-tank/luci-app-dnscrypt-proxy2](https://github.com/peter-tank/luci-app-dnscrypt-proxy2) - LuCI support for dnscrypt-proxy version2 https://github.com/DNSCrypt/dnscrypt-proxy
@@ -690,7 +690,7 @@
 
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
 - [KyokuSai/HSR](https://github.com/KyokuSai/HSR) - Models trained by us.
-- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Robust, fast, and easy-to-use self-hosted streaming media server for DLsite voice works.
+- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - The new Kikoeru —— Fast, powerful and easy-to-use self-hosted streaming media server for DLsite voice works.
 - [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
 - [ziyao233/rk3528-mainline](https://github.com/ziyao233/rk3528-mainline) - Mainline status of RK3528 SoC.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -834,7 +834,7 @@
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024]
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
-- [NevermindNilas/TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) - A high-performance tool for video upscaling, interpolation, depth estimation, and more. Available as a CLI and Adobe Extension.
+- [NevermindNilas/TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) - Free, open-source anime video toolkit: AI upscale, RIFE interpolation and restore in one pass. CLI, Standalone and After Effects.
 - [tgbot-collection/SearchGram](https://github.com/tgbot-collection/SearchGram) - 🔠 Telegram 中文聊天记录搜索机器人 Effortlessly search your Telegram chat history, including CJK languages, with fuzzy and typo-tolerant search capabilities.
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [azurlane-doujin/AzurLanePaintingExtract-v1.0](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) - 一个简单的碧蓝航线立绘还原的工具
@@ -1027,7 +1027,7 @@
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [Utopia-V/mixagents](https://github.com/Utopia-V/mixagents) - Harness-native agent components for Codex and Pi: a DeepSeek V4 Flash subagent and a DSH Minimal mimic for V4 Pro.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [cookjohn/zotero-mcp](https://github.com/cookjohn/zotero-mcp) - It's a plugin extension in Zotero.  Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP. Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全
 - [NangInShell/VSET](https://github.com/NangInShell/VSET) - VSET
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
