@@ -272,7 +272,6 @@
 - [cuberite/cuberite](https://github.com/cuberite/cuberite) - A lightweight, fast and extensible game server for Minecraft
 - [jxleyo/MouseLikeTouchPad_I2C](https://github.com/jxleyo/MouseLikeTouchPad_I2C) - MouseLikeTouchPad_I2C Hid Driver for windows仿鼠标式触摸板驱动
 - [NeoLoader/NeoLoader](https://github.com/NeoLoader/NeoLoader) - NeoLoader Source Code
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [sophgo/tpu-mlir](https://github.com/sophgo/tpu-mlir) - Machine learning compiler based on MLIR for Sophgo TPU.
 - [reupen/columns_ui](https://github.com/reupen/columns_ui) - Alternative UI for the foobar2000 audio player
 - [zt8989/IronMule](https://github.com/zt8989/IronMule) - an emule with ipv6 support
@@ -923,6 +922,7 @@
 - [flandia/sna](https://github.com/flandia/sna) - An external tool to add "Extract Here (Smart)" on Windows.
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
 - [torrust/torrust-tracker](https://github.com/torrust/torrust-tracker) - A modern and feature-rich (private) BitTorrent tracker.
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
