@@ -2655,7 +2655,7 @@
 - [limitcool/bilistream](https://github.com/limitcool/bilistream) - bilistream 是一个面向 self-host 场景的 B 站自动转播工具，用于无人值守地监控 Twitch、YouTube、YouTube 预告直播，并在源站开播时自动推流到 B 站。
 - [IronKinoko/youtube-danmaku](https://github.com/IronKinoko/youtube-danmaku) - Youtube Live Chat直播评论以弹幕方式显示
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。
+- [biliup/biliup](https://github.com/biliup/biliup) - 自动直播录制、投稿、twitch、ytb频道搬运工具。命令行投稿(B站)和视频下载工具，提供多种登录方式，支持多p。边录边传0落盘
 
 ## zig 
 
