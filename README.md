@@ -687,7 +687,7 @@
 
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
 - [KyokuSai/HSR](https://github.com/KyokuSai/HSR) - Models trained by us.
-- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a fast, powerful and robust self-hosted streaming media server for DLsite voice works.
+- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be fast, powerful and robust.
 - [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
 - [ziyao233/rk3528-mainline](https://github.com/ziyao233/rk3528-mainline) - Mainline status of RK3528 SoC.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -1037,7 +1037,6 @@
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
-- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
 - [du2333/flare-stack-blog](https://github.com/du2333/flare-stack-blog) - A modern full-stack blog CMS driven by Cloudflare. | 基于 Cloudflare 生态的全栈现代化博客 CMS。
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
@@ -1046,6 +1045,7 @@
 - [tsukumijima/DPlayer](https://github.com/tsukumijima/DPlayer) - :lollipop: コメントを流せる素敵な HTML5 動画プレイヤー (for KonomiTV)
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
+- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [amphineko/reactiveneko](https://github.com/amphineko/reactiveneko) - Reactive atomicneko!
 - [EFFXCT290/Obsidian](https://github.com/EFFXCT290/Obsidian) - 
 - [shareAI-lab/Kode-CLI](https://github.com/shareAI-lab/Kode-CLI) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
@@ -1134,7 +1134,6 @@
 
 ## Vue 
 
-- [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Yidadaa/Issue-Blog-With-Github-Action](https://github.com/Yidadaa/Issue-Blog-With-Github-Action) - A well-designed blog theme based on Vuepress and hosted on Github Actions.
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
