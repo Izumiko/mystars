@@ -233,6 +233,7 @@
 
 ## C++ 
 
+- [AnInsomniacy/aria2-next](https://github.com/AnInsomniacy/aria2-next) - Redefining the next generation of aria2
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [eMuleAI/eMuleAI](https://github.com/eMuleAI/eMuleAI) - A modern fork of the classic open-source eMule P2P file sharing client.
 - [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern
@@ -386,6 +387,7 @@
 
 ## Go 
 
+- [murongg/SubLane](https://github.com/murongg/SubLane) - A lightweight, self-hosted AI subscription gateway for internal teams, with account pooling, access control, and usage tracking.
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
 - [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 插件化、无广告的免费音乐服务器
 - [casdoor/casnode](https://github.com/casdoor/casnode) - Open-Source Forum and Social Platform, Alternative to StackOverflow & Flarum
@@ -422,7 +424,7 @@
 - [sot-tech/mochi](https://github.com/sot-tech/mochi) - A customizable, multi-protocol BitTorrent Tracker
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
