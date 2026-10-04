@@ -236,6 +236,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xamarin](#xamarin)
@@ -2644,6 +2645,14 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [Girbons/comics-downloader](https://github.com/Girbons/comics-downloader) - tool to download comics and manga in pdf/epub/cbr/cbz from a website
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - Automate SSL/TLS certificates on Windows with ease
+
+## windows-11 
+
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
+- [lively-community/lively](https://github.com/lively-community/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial) - 现代C++模板教程
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 
 ## wordpress 
 
