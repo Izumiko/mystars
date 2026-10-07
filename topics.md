@@ -1640,7 +1640,7 @@
 - [LuckyPuppy514/jproxy](https://github.com/LuckyPuppy514/jproxy) - 介于 Sonarr / Radarr 和 Jackett / Prowlarr 之间的代理，主要用于优化查询和提升识别率 | A proxy between Sonarr / Radarr and Jackett / Prowlarr, mainly used to optimize search and improve recognition rate
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
 - [nutstore/obsidian-nutstore-sync](https://github.com/nutstore/obsidian-nutstore-sync) - 
-- [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
+- [Devi766/FlyClash-Android](https://github.com/Devi766/FlyClash-Android) - FlyClash Android
 - [wangwangit/nav](https://github.com/wangwangit/nav) - 一个优雅的书签收藏与分享平台，基于Cloudflare Workers构建
 - [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) - PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
 - [vicanso/http-stat-rs](https://github.com/vicanso/http-stat-rs) - Pure rust version of http statistics, which refer to httpstat, and supports http1, http2 and http3.
