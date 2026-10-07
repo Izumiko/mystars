@@ -693,7 +693,7 @@
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
 - [KyokuSai/HSR](https://github.com/KyokuSai/HSR) - Models trained by us.
 - [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be fast, powerful and robust.
-- [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
+- [Devi766/FlyClash-Android](https://github.com/Devi766/FlyClash-Android) - FlyClash Android
 - [ziyao233/rk3528-mainline](https://github.com/ziyao233/rk3528-mainline) - Mainline status of RK3528 SoC.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [coderonion/awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) - 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.
