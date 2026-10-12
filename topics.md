@@ -528,6 +528,7 @@
 
 ## claude-code 
 
+- [liliBestCoder/ghost-proxifier-pro](https://github.com/liliBestCoder/ghost-proxifier-pro) - Ghost Proxifier Pro 是一款专为 Windows 平台打造的高性能进程级透明代理引擎，旨在解决现代复杂网络环境下的两大痛点：「特定应用不走系统代理」以及「多重 VPN/代理路由冲突」。  核心亮点描述： 真正的进程级细粒度控制：不同于传统的全局代理或 TUN 模式，它基于 MinHook 直接拦截应用层 Winsock API。这意味着您可以精确指定某个进程（如 Chrome、游
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 - [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
@@ -928,7 +929,7 @@
 
 - [fireinrain/asmr-downloader](https://github.com/fireinrain/asmr-downloader) - A tool for download asmr media from asmr.one(Thanks for the asmr.one)
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
-- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be fast, powerful and robust.
+- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be robust, fast and user-friendly.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce) - A scalable social community platform powered by Gin backend and modern TypeScript/Vue frontend architecture
@@ -1566,6 +1567,7 @@
 
 ## others 
 
+- [l429609201/misaka_danmu_server](https://github.com/l429609201/misaka_danmu_server) - 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 弹弹play API 规范。
 - [alonginwind/rustdesk-api](https://github.com/alonginwind/rustdesk-api) - Rustdesk Api Server https://github.com/alonginwind/rustdesk-server/tree/main
 - [databk/rustdesk-console](https://github.com/databk/rustdesk-console) - An open-source console designed for self-hosting, as an alternative to RustDesk Server Pro.
 - [l429609201/dd-danmaku](https://github.com/l429609201/dd-danmaku) - 这是一个为 Emby 设计的弹幕插件，它能够从弹弹play获取弹幕并显示在播放器中。
@@ -1594,7 +1596,6 @@
 - [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) - n8n 配置多语言
 - [eMuleAI/eMuleAI](https://github.com/eMuleAI/eMuleAI) - A modern fork of the classic open-source eMule P2P file sharing client.
 - [PatchouliTC/Tailscale-DERP-Docker](https://github.com/PatchouliTC/Tailscale-DERP-Docker) - Docker container to self host Tailscale DERP server
-- [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern
 - [banderzhm/cnetmod](https://github.com/banderzhm/cnetmod) - Modern C++23 Modules asynchronous network library, cross-platform, stackless coroutine
 - [rclone/rclone-ui](https://github.com/rclone/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [zt8989/eNode-go](https://github.com/zt8989/eNode-go) - 
@@ -1999,6 +2000,7 @@
 
 ## p2p 
 
+- [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet downloads.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [Arcadia-Solutions/Arcadia](https://github.com/Arcadia-Solutions/Arcadia) - Content-agnostic torrent site & tracker framework
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
@@ -2290,7 +2292,7 @@
 - [stumpapp/stump](https://github.com/stumpapp/stump) - A free and open source comics, manga and digital book server with OPDS support
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [hsa00000/urocissa](https://github.com/hsa00000/urocissa) - Urocissa is a self-hosted photos gallery designed to serve massive collections, capable of handling millions of images and videos. It is built using Rust and Vue.
-- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be fast, powerful and robust.
+- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be robust, fast and user-friendly.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2568,7 +2570,7 @@
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 - [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载、刮削、洗版
 - [auto-novel/auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
-- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be fast, powerful and robust.
+- [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be robust, fast and user-friendly.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
 - [electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - 🥳 Really simple Electron + Vite + Vue boilerplate.
