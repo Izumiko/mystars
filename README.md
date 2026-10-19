@@ -426,7 +426,7 @@
 - [sot-tech/mochi](https://github.com/sot-tech/mochi) - A customizable, multi-protocol BitTorrent Tracker
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNG/BMP/SVGs as WebP/AVIF format with compression, on-the-fly.
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
@@ -540,7 +540,7 @@
 - [GolLight/BetterPlayerPlugin](https://github.com/GolLight/BetterPlayerPlugin) - Jellyfin Web 播放器增强插件。 通过稳定注入优化脚本，全面增强 Web 播放器的键盘、鼠标和触控操作，提供类似 B 站 的沉浸式体验。未来版本将支持自定义外部脚本注入。An enhancement plugin for the Jellyfin web client. Stably injects optimization scripts to comprehensively enha
 - [other-blowsnow/n8n-i18n-chinese](https://github.com/other-blowsnow/n8n-i18n-chinese) - n8n 配置多语言
 - [czottmann/kagi-ken-mcp](https://github.com/czottmann/kagi-ken-mcp) - Unofficial MCP server for working with Kagi *without* API access (you'll need to be a customer). Searches and summarizes. Uses Kagi session token for easy authentication. Works well with your agent.
-- [ayaka-notes/ayakaleaf-pro](https://github.com/ayaka-notes/ayakaleaf-pro) - The ultimate open-source Overleaf extension and alternative: a free, self-hosted, drop-in replacement for Overleaf Community Edition with nearly all Pro feature—SSO, AI Assistant, Git/GitHub sync, tra
+- [ayaka-notes/ayakaleaf-pro](https://github.com/ayaka-notes/ayakaleaf-pro) - The ultimate open-source Overleaf extension and alternative: a free, self-hosted, drop-in replacement for Overleaf Community Edition with nearly all Pro feature—SSO, AI Assistant, Git(Hub/Lab）/ Dropbo
 - [bhaoo/Cuckoo](https://github.com/bhaoo/Cuckoo) - 🍭 一款MD风格的双栏 Typecho 主题
 - [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) - 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
 - [got3nks/amutorrent](https://github.com/got3nks/amutorrent) - A unified download manager for aMule, rTorrent, qBittorrent, Deluge and Transmission: manage ED2K and BitTorrent downloads from a single modern web interface.
@@ -559,6 +559,7 @@
 - [lyz05/danmaku](https://github.com/lyz05/danmaku) - 在线视频网站弹幕解析工具，支持 B站， 芒果TV， 腾讯视频， 优酷， 爱奇艺， 巴哈姆特動畫瘋
 - [xnx3/translate](https://github.com/xnx3/translate) - AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
+- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) - A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
 - [seadfeng/favicons-proxy](https://github.com/seadfeng/favicons-proxy) - 
 - [hitokoto-osc/hitokoto-api](https://github.com/hitokoto-osc/hitokoto-api) - 版本：1，现行的 API 运行框架。
@@ -707,7 +708,7 @@
 - [Nekomoekissaten-SUB/Nekomoekissaten-Subs](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs) - Subtitle source files from Nekomoe Kissaten. Should there be any issues, please create them in this main repository first.
 - [sophgocommunity/CV180-Duo](https://github.com/sophgocommunity/CV180-Duo) - Milk-V Duo is an ultra-compact embedded development platform based on the Sophgo CV1800B chip. It can run Linux and RTOS, 0.2TOPS computing power@INT8 for professionals, industrial ODMs, AIoT enthusia
 - [0wQ/test-1](https://github.com/0wQ/test-1) - 
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 翻译字幕文件：拖入 .srt / .ass / .vtt，点一下就翻完。产品名称：译幕（Zimoo）有网页版和 Mac / Windows 桌面版，支持 DeepSeek、Gemini、GPT、Claude、Kimi、智谱等 AI 大模型，和其他软件最大的区别（差异）：用户配置自己的 API Key 来做翻译，这样的好处是费用是最低的。
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 译幕（Zimoo）是字幕翻译工具，支持 .srt / .ass / .vtt 文件，提供网页版和 macOS / Windows 桌面版，可使用 DeepSeek、Gemini、GPT、Claude、Kimi、智谱等 AI 模型，核心卖点（和其他产品的主要区别）：用户配置自己的 API Key，好处是这样价格最低。
 - [ESLyric/release](https://github.com/ESLyric/release) - 
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 - [tuic-protocol/tuic](https://github.com/tuic-protocol/tuic) - Delicately-TUICed 0-RTT proxy protocol
@@ -1042,7 +1043,7 @@
 - [databk/rustdesk-console](https://github.com/databk/rustdesk-console) - An open-source console designed for self-hosting, as an alternative to RustDesk Server Pro.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [Utopia-V/mixagents](https://github.com/Utopia-V/mixagents) - Harness-native agent components for Codex and Pi: a DeepSeek V4 Flash subagent and a DSH Minimal mimic for V4 Pro.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [cookjohn/zotero-mcp](https://github.com/cookjohn/zotero-mcp) - It's a plugin extension in Zotero.  Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP. Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全
 - [NangInShell/VSET](https://github.com/NangInShell/VSET) - VSET
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
@@ -1075,7 +1076,6 @@
 - [Mr-Quin/danmaku-anywhere](https://github.com/Mr-Quin/danmaku-anywhere) - 一个可以给几乎任何视频网站添加弹幕的开源软件 | An open source solution to add danmaku to almost every video website
 - [xxyz30/Any-Danmaku](https://github.com/xxyz30/Any-Danmaku) - 在浏览器的Video标签上播放弹幕，使用弹弹Play的Api
 - [CerealKillerjs/Overtracker_bun](https://github.com/CerealKillerjs/Overtracker_bun) - 
-- [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [mebtte/cicada](https://github.com/mebtte/cicada) - 🎵 💻 📱 A multi-user music service for self-hosting.
 - [mumu-lhl/duckduckgo-ai-chat-service](https://github.com/mumu-lhl/duckduckgo-ai-chat-service) - Use Duckduckgo AI Chat to provide an OpenAI-compatible API that can be used for free with o3-mini.
