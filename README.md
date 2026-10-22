@@ -247,7 +247,7 @@
 - [fooyin/fooyin](https://github.com/fooyin/fooyin) - A customisable music player
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [ROCm/FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes; purpose-built and deeply optimized for the AMD NPUs.
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace) - Simple, portable, and self-contained stacktrace library for C++11 and newer
 - [acdemiralp/mpi](https://github.com/acdemiralp/mpi) - Header-only C++20 wrapper for MPI 4.0.
 - [kamping-site/kamping](https://github.com/kamping-site/kamping) - KaMPIng: (Near) zero-overhead MPI wrapper for modern C++
@@ -531,6 +531,7 @@
 
 ## JavaScript 
 
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [UNITRONIX/BetterDesk](https://github.com/UNITRONIX/BetterDesk) - BetterDesk Console - Ultimate Free Remote Desktop Solution
 - [l429609201/dd-danmaku](https://github.com/l429609201/dd-danmaku) - 这是一个为 Emby 设计的弹幕插件，它能够从弹弹play获取弹幕并显示在播放器中。
 - [Rivers47/Kikoenai](https://github.com/Rivers47/Kikoenai) - Self hosted ASMR server
@@ -605,7 +606,6 @@
 - [bangumi/scripts](https://github.com/bangumi/scripts) - Userscripts for Bangumi / 用于 Bangumi 的用户脚本
 - [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 - [egoist/hanabi](https://github.com/egoist/hanabi) - :boom: Highlight any code, in a colorful way. (seriously 700 bytes)
-- [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [binux/webtorrent-share](https://github.com/binux/webtorrent-share) - share files via webtorrent
 - [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -770,6 +770,7 @@
 - [chakhsu/pinghsu](https://github.com/chakhsu/pinghsu) - Pinghsu,  A Typecho Theme
 - [typecho/plugins](https://github.com/typecho/plugins) - Typecho插件列表
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+- [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [typecho-fans/plugins](https://github.com/typecho-fans/plugins) - Typecho Fans插件作品目录
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
@@ -844,7 +845,7 @@
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024]
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka) - Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extens
 - [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic.
-- [NevermindNilas/TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) - Free, open-source anime video toolkit: AI upscale, RIFE interpolation and restore in one pass. CLI, Standalone and After Effects.
+- [NevermindNilas/TheAnimeScripter](https://github.com/NevermindNilas/TheAnimeScripter) - Anime Video Toolkit: AI upscale, RIFE interpolation and restore in one pass. CLI, Standalone and After Effects.
 - [tgbot-collection/SearchGram](https://github.com/tgbot-collection/SearchGram) - 🔠 Telegram 中文聊天记录搜索机器人 Effortlessly search your Telegram chat history, including CJK languages, with fuzzy and typo-tolerant search capabilities.
 - [TNTwise/REAL-Video-Enhancer](https://github.com/TNTwise/REAL-Video-Enhancer) - Interpolate, Upscale, Decompress, and Denoise videos easily on Linux/Windows/MacOS.
 - [azurlane-doujin/AzurLanePaintingExtract-v1.0](https://github.com/azurlane-doujin/AzurLanePaintingExtract-v1.0) - 一个简单的碧蓝航线立绘还原的工具
@@ -900,6 +901,7 @@
 
 ## Rust 
 
+- [ELY-Open-Source/ELYTerminal](https://github.com/ELY-Open-Source/ELYTerminal) - A terminal on GPUI and Ely components
 - [storytold/vectorcraft](https://github.com/storytold/vectorcraft) - VectorCraft: An open-source, vector art tool written by scratch in pure Rust
 - [ja7ad/hydra](https://github.com/ja7ad/hydra) - A fast, resilient, multi-source file retriever and download engine
 - [chenxiaolong/ddns-updater](https://github.com/chenxiaolong/ddns-updater) - A simple RFC 2136 dynamic DNS updater
