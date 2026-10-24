@@ -72,6 +72,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -822,6 +823,15 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [ForNeVeR/tdlib.native](https://github.com/ForNeVeR/tdlib.native) - Prebuilt binaries of TDLib distributed as a NuGet package.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+
+## downloader 
+
+- [fireinrain/asmr-downloader](https://github.com/fireinrain/asmr-downloader) - A tool for download asmr media from asmr.one(Thanks for the asmr.one)
+- [tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader) - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
+- [IwaraEnhance/IwaraDownloadTool](https://github.com/IwaraEnhance/IwaraDownloadTool) - Iwara 下载工具 | Iwara Downloader
+- [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器
 
 ## dsh-plugin 
 
@@ -2118,6 +2128,7 @@
 
 ## python 
 
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system
 - [NangInShell/VSET](https://github.com/NangInShell/VSET) - VSET
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - Debloat and harden Brave Browser on Linux, macOS, and Windows using Chromium enterprise policies. Curses TUI on Linux/macOS, native GUI on Windows. 79 policies, 6 presets, zero dependencies.
 - [RapidAI/RapidDoc](https://github.com/RapidAI/RapidDoc) - A high-performance, open-source PDF data extraction tool.   一站式开源高性能数据提取工具，将复杂 PDF 文档转换为 Markdown 和 JSON 格式，使用onnx模型。
@@ -2190,6 +2201,7 @@
 
 ## react 
 
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
@@ -2293,6 +2305,7 @@
 
 ## self-hosted 
 
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system
 - [murongg/SubLane](https://github.com/murongg/SubLane) - A lightweight, self-hosted AI subscription gateway for internal teams, with account pooling, access control, and usage tracking.
 - [Rivers47/Kikoenai](https://github.com/Rivers47/Kikoenai) - Self hosted ASMR server
 - [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
