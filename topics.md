@@ -94,6 +94,7 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
+- [good-first-issue](#good-first-issue)
 - [graphql](#graphql)
 - [gui](#gui)
 - [gulp](#gulp)
@@ -203,6 +204,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
@@ -527,7 +529,7 @@
 
 - [murongg/SubLane](https://github.com/murongg/SubLane) - A lightweight, self-hosted AI subscription gateway for internal teams, with account pooling, access control, and usage tracking.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 
@@ -551,7 +553,6 @@
 ## cli 
 
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [thelinkin3000/SonicLair.Net](https://github.com/thelinkin3000/SonicLair.Net) - A minimal, album-centered music client for subsonic compatible music servers.
@@ -761,7 +762,7 @@
 
 - [murongg/SubLane](https://github.com/murongg/SubLane) - A lightweight, self-hosted AI subscription gateway for internal teams, with account pooling, access control, and usage tracking.
 - [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 插件化、无广告的免费音乐服务器
-- [casdoor/casnode](https://github.com/casdoor/casnode) - Open-Source Forum and Social Platform, Alternative to StackOverflow & Flarum
+- [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ/Telegram，支持本地中文输入法，支持三方应用，支持AMD64和ARM64。
@@ -945,6 +946,7 @@
 
 ## go 
 
+- [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [fireinrain/asmr-downloader](https://github.com/fireinrain/asmr-downloader) - A tool for download asmr media from asmr.one(Thanks for the asmr.one)
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
 - [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be robust, fast and user-friendly.
@@ -991,6 +993,7 @@
 ## golang 
 
 - [murongg/SubLane](https://github.com/murongg/SubLane) - A lightweight, self-hosted AI subscription gateway for internal teams, with account pooling, access control, and usage tracking.
+- [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [fireinrain/asmr-downloader](https://github.com/fireinrain/asmr-downloader) - A tool for download asmr media from asmr.one(Thanks for the asmr.one)
 - [Danny-Dasilva/CycleTLS](https://github.com/Danny-Dasilva/CycleTLS) - Spoof TLS/JA3 fingerprints in GO and Javascript
@@ -1022,6 +1025,10 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+
+## good-first-issue 
+
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job appli
 
 ## graphql 
 
@@ -1060,7 +1067,7 @@
 
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
-- [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best client for all of your cloud storage
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -1298,7 +1305,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
-- [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best client for all of your cloud storage
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
@@ -1480,6 +1487,7 @@
 
 ## mysql 
 
+- [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 程序员鱼皮原创项目，免费的闯关交互式 SQL 自学教程网站，从零基础到进阶，带你掌握常用 SQL 语法（MySQL、SQLite、PostgreSQL）、快速学习 SQL 和数据库。支持在线SQL编辑器、实时查询结果、语法高亮、SQL运行广场等功能。纯前端实现，简单易学~
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal
 
@@ -1498,6 +1506,7 @@
 
 ## nextjs 
 
+- [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [amphineko/reactiveneko](https://github.com/amphineko/reactiveneko) - Reactive atomicneko!
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
@@ -1567,7 +1576,7 @@
 ## openai 
 
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
-- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [auto-novel/auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
@@ -2070,6 +2079,7 @@
 
 ## postgresql 
 
+- [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal
 - [moigagoo/norm](https://github.com/moigagoo/norm) - A Nim ORM for SQLite and Postgres
@@ -2128,7 +2138,7 @@
 
 ## python 
 
-- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach: Local-first video metadata scraper and media manager.
 - [NangInShell/VSET](https://github.com/NangInShell/VSET) - VSET
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - Debloat and harden Brave Browser on Linux, macOS, and Windows using Chromium enterprise policies. Curses TUI on Linux/macOS, native GUI on Windows. 79 policies, 6 presets, zero dependencies.
 - [RapidAI/RapidDoc](https://github.com/RapidAI/RapidDoc) - A high-performance, open-source PDF data extraction tool.   一站式开源高性能数据提取工具，将复杂 PDF 文档转换为 Markdown 和 JSON 格式，使用onnx模型。
@@ -2201,7 +2211,8 @@
 
 ## react 
 
-- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach: Local-first video metadata scraper and media manager.
+- [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
@@ -2305,10 +2316,11 @@
 
 ## self-hosted 
 
-- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system
+- [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach: Local-first video metadata scraper and media manager.
 - [murongg/SubLane](https://github.com/murongg/SubLane) - A lightweight, self-hosted AI subscription gateway for internal teams, with account pooling, access control, and usage tracking.
 - [Rivers47/Kikoenai](https://github.com/Rivers47/Kikoenai) - Self hosted ASMR server
 - [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
+- [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [Rabithua/Rote](https://github.com/Rabithua/Rote) - A personal note repository that looks different🤔
@@ -2373,6 +2385,13 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 
+## skills 
+
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
+- [yjl9903/AnimeGarden](https://github.com/yjl9903/AnimeGarden) - 動漫花園 镜像站 | 动画 BT 资源聚合站 | 动画 BT 资源开放接口
+
 ## spring-boot 
 
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
@@ -2386,6 +2405,7 @@
 
 ## sqlite 
 
+- [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [yodhcn/dlsite-doujin-renamer](https://github.com/yodhcn/dlsite-doujin-renamer) - 「DLsite 同人作品重命名工具」依据 RJ|VJ|BJ 号从 dlsite.com 爬取 "标题" 和 "社团" 等信息，按照自定义模板对文件夹批量格式化命名，并将文件夹封面修改为作品封面。
@@ -2425,6 +2445,7 @@
 
 ## tailwindcss 
 
+- [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) - 🍀Firefly, fresh and aesthetic Astro blog theme template.
 - [gotoailab/modern_mermaid](https://github.com/gotoailab/modern_mermaid) - A modern, beautiful Mermaid.js editor with live preview, multiple themes, and high-quality export. Perfect for developers, designers, and product managers.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
