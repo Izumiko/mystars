@@ -232,6 +232,7 @@
 - [vim](#vim)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1759,7 +1760,6 @@
 - [zotero-chinese/styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式 - Zotero 中文社区
 - [zhangjiequan/AssetStudio](https://github.com/zhangjiequan/AssetStudio) - AssetStudio - Based on the archived Perfare's AssetStudio, I continue Perfare's work to keep AssetStudio up-to-date, with support for new Unity versions and additional improvements.
 - [flandia/sna](https://github.com/flandia/sna) - An external tool to add "Extract Here (Smart)" on Windows.
-- [PlexPt/rocket-pt](https://github.com/PlexPt/rocket-pt) - 基于 Java 的私有PT(private tracker)站点系统，可以提供高质量的连接服务和简单易用的界面。base on NexusPHP。
 - [alx-xlx/backup-website-to-cloud](https://github.com/alx-xlx/backup-website-to-cloud) - This is a script to push a backup of your website, forum etc to Cloud Storage using rclone
 - [Yidadaa/Issue-Blog-With-Github-Action](https://github.com/Yidadaa/Issue-Blog-With-Github-Action) - A well-designed blog theme based on Vuepress and hosted on Github Actions.
 - [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
@@ -1992,7 +1992,6 @@
 - [chiro2001/Wenku8ToEpub](https://github.com/chiro2001/Wenku8ToEpub) - 把wenku8.net的小说转换成epub格式
 - [ayufan-rock64/linux-mainline-kernel](https://github.com/ayufan-rock64/linux-mainline-kernel) - Linux kernel source tree
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [hanwckf/build-beikeyun](https://github.com/hanwckf/build-beikeyun) - scripts for build beikeyun firmware
 - [GokuSun/BeikeYun](https://github.com/GokuSun/BeikeYun) - Description how to update firmware for BeikeYun and use it for PT
 - [pixelb/scripts](https://github.com/pixelb/scripts) - scripts from pixelbeat.org
@@ -2623,6 +2622,10 @@
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+
+## vscode 
+
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
 ## vue 
 
