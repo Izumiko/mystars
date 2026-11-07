@@ -281,7 +281,6 @@
 - [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [AmusementClub/vs-mlrt](https://github.com/AmusementClub/vs-mlrt) - Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)
-- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [Parchive/par2cmdline](https://github.com/Parchive/par2cmdline) - Official repo for par2cmdline and libpar2
 - [pgkt04/defender-control](https://github.com/pgkt04/defender-control) - An open-source windows defender manager. Now you can disable windows defender permanently.
 - [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D) - The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs and CPUs via OpenCL. Free for non-commercial use.
@@ -356,6 +355,7 @@
 
 ## Dart 
 
+- [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 - [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
@@ -388,6 +388,7 @@
 
 ## Go 
 
+- [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
 - [alonginwind/rustdesk-api](https://github.com/alonginwind/rustdesk-api) - Rustdesk Api Server https://github.com/alonginwind/rustdesk-server/tree/main
 - [murongg/SubLane](https://github.com/murongg/SubLane) - A lightweight, self-hosted AI subscription gateway for internal teams, with account pooling, access control, and usage tracking.
 - [the-open-agent/openagent](https://github.com/the-open-agent/openagent) - ⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org
@@ -522,7 +523,6 @@
 - [Devo919/Gewechat](https://github.com/Devo919/Gewechat) - 微信机器人框架，个人微信二次开发，企业微信二次开发，最简单易用的免费二开框架,RPA技术（非HOOK破解桌面端）
 - [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-- [PlexPt/rocket-pt](https://github.com/PlexPt/rocket-pt) - 基于 Java 的私有PT(private tracker)站点系统，可以提供高质量的连接服务和简单易用的界面。base on NexusPHP。
 - [vavavr00m/ed2j](https://github.com/vavavr00m/ed2j) - Automatically exported from code.google.com/p/ed2j
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 - [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
@@ -798,6 +798,7 @@
 
 ## Python 
 
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach: Local-first video metadata scraper and media manager.
 - [l429609201/misaka_danmu_server](https://github.com/l429609201/misaka_danmu_server) - 一个功能强大的自托管弹幕（Danmaku）聚合与管理服务，兼容 弹弹play API 规范。
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
@@ -861,6 +862,7 @@
 - [Breakthrough/PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - :movie_camera: Python and OpenCV-based scene cut/transition detection program & library.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [WriteCode-ChangeWorld/Tools](https://github.com/WriteCode-ChangeWorld/Tools) - 一个关于ACG二次元的工具库
+- [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Source code and Linux releases. Windows/MacOS/ARM builds served in different repos, links are towards the top of the README.md.
 - [yodhcn/dlsite-doujin-renamer](https://github.com/yodhcn/dlsite-doujin-renamer) - 「DLsite 同人作品重命名工具」依据 RJ|VJ|BJ 号从 dlsite.com 爬取 "标题" 和 "社团" 等信息，按照自定义模板对文件夹批量格式化命名，并将文件夹封面修改为作品封面。
 - [MikeWang000000/Natter](https://github.com/MikeWang000000/Natter) - Expose your TCP/UDP port behind full-cone NAT to the Internet.
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
@@ -1046,7 +1048,7 @@
 - [databk/rustdesk-console](https://github.com/databk/rustdesk-console) - An open-source console designed for self-hosting, as an alternative to RustDesk Server Pro.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [Utopia-V/mixagents](https://github.com/Utopia-V/mixagents) - Harness-native agent components for Codex and Pi: a DeepSeek V4 Flash subagent and a DSH Minimal mimic for V4 Pro.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [cookjohn/zotero-mcp](https://github.com/cookjohn/zotero-mcp) - It's a plugin extension in Zotero.  Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP. Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全
 - [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
