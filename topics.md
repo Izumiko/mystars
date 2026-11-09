@@ -121,6 +121,7 @@
 - [js](#js)
 - [json](#json)
 - [julia](#julia)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -336,6 +337,7 @@
 
 ## android 
 
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 - [UNITRONIX/BetterDesk](https://github.com/UNITRONIX/BetterDesk) - BetterDesk Console - Ultimate Free Remote Desktop Solution
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
@@ -462,7 +464,7 @@
 
 ## c 
 
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [PowerShell/Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH
 - [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -696,7 +698,7 @@
 
 ## cybersecurity 
 
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 
@@ -1257,6 +1259,10 @@
 - [eth-cscs/ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl) - Almost trivial distributed parallelization of stencil-based GPU and CPU applications on a regular staggered grid
 - [jump-dev/HiGHS.jl](https://github.com/jump-dev/HiGHS.jl) - A Julia interface to the HiGHS solver
 
+## knowledge-graph 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
+
 ## kotlin 
 
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
@@ -1312,7 +1318,7 @@
 - [aprillz/MewUI](https://github.com/aprillz/MewUI) - A cross-platform and lightweight, code-first .NET GUI framework aimed at NativeAOT.
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - Debloat and harden Brave Browser on Linux, macOS, and Windows using Chromium enterprise policies. Curses TUI on Linux/macOS, native GUI on Windows. 79 policies, 6 presets, zero dependencies.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [fooyin/fooyin](https://github.com/fooyin/fooyin) - A customisable music player
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
@@ -1404,7 +1410,7 @@
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - Debloat and harden Brave Browser on Linux, macOS, and Windows using Chromium enterprise policies. Curses TUI on Linux/macOS, native GUI on Windows. 79 policies, 6 presets, zero dependencies.
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
@@ -2049,7 +2055,7 @@
 
 ## p2p 
 
-- [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet + torrent downloads.
+- [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet + torrent + file hoster downloads.
 - [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser
 - [Arcadia-Solutions/Arcadia](https://github.com/Arcadia-Solutions/Arcadia) - Content-agnostic torrent site & tracker framework
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
@@ -2687,13 +2693,14 @@
 
 ## windows 
 
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client
 - [UNITRONIX/BetterDesk](https://github.com/UNITRONIX/BetterDesk) - BetterDesk Console - Ultimate Free Remote Desktop Solution
 - [dengxibo/sumatrapdf-plus](https://github.com/dengxibo/sumatrapdf-plus) - SumatraPDF fork: Chinese EPUB/MOBI, smart PDF dark mode, OCR, TTS, offline dictionary.
 - [aprillz/MewUI](https://github.com/aprillz/MewUI) - A cross-platform and lightweight, code-first .NET GUI framework aimed at NativeAOT.
 - [ChaoticSi1ence/SlimBrave-Neo](https://github.com/ChaoticSi1ence/SlimBrave-Neo) - Debloat and harden Brave Browser on Linux, macOS, and Windows using Chromium enterprise policies. Curses TUI on Linux/macOS, native GUI on Windows. 79 policies, 6 presets, zero dependencies.
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [Butanediol/wxhsalc](https://github.com/Butanediol/wxhsalc) - Minimal Clash/Mihomo tray app for Windows
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
