@@ -241,7 +241,7 @@
 - [InWILL/Locale_Remulator](https://github.com/InWILL/Locale_Remulator) - System Region and Language Simulator.
 - [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 - [AlkaidLab/foundation-sunshine](https://github.com/AlkaidLab/foundation-sunshine) - Sunshine fork: an enhanced sunshine, a self-hosted game streaming host for Moonlight with HDR10/HDR Vivid, virtual displays, advanced audio, optimized encoders, and a modern control panel.
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
+- [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [nccrrv/Top-AMS](https://github.com/nccrrv/Top-AMS) - 
 - [fooyin/fooyin](https://github.com/fooyin/fooyin) - A customisable music player
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
@@ -694,6 +694,7 @@
 
 ## Others 
 
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
 - [KyokuSai/HSR](https://github.com/KyokuSai/HSR) - Models trained by us.
 - [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be robust, fast and user-friendly.
@@ -840,7 +841,7 @@
 - [spoonsso/dannce](https://github.com/spoonsso/dannce) - 
 - [alexhang212/3D-MuPPET](https://github.com/alexhang212/3D-MuPPET) - Repository for 3D-MuPPET: 3D Multi-Pigeon Pose Estimation and Tracking
 - [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) - 适配轻小说/Galgame的日中翻译大模型
-- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ https://greasyfork.org/en/scripts/437569-cotrans-manga-image-translator-regular-edition
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [chenaive/fuck-xxxmoe](https://github.com/chenaive/fuck-xxxmoe) - 
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024]
@@ -911,6 +912,7 @@
 - [chenxiaolong/ddns-updater](https://github.com/chenxiaolong/ddns-updater) - A simple RFC 2136 dynamic DNS updater
 - [TheMaxMur/RS-Key](https://github.com/TheMaxMur/RS-Key) - Turn a $5 Raspberry Pi RP2350 board into an open-source hardware passkey: WebAuthn/FIDO2 logins, ssh & git signing, OpenPGP, PIV, TOTP. Rust firmware, no_std.
 - [bczhc/qmc-dec](https://github.com/bczhc/qmc-dec) - 
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [scipenai/tylax](https://github.com/scipenai/tylax) - A bi-directional converter between Typst and LaTeX. Available as both a CLI tool and a Web interface.
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source agent for the terminal written in Rust. Use any provider or model. Issues & PRs always welcome
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
@@ -1045,13 +1047,11 @@
 
 ## TypeScript 
 
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client
 - [cropflre/nowen-reader](https://github.com/cropflre/nowen-reader) - NowenReader 是一款轻量开源、本地化优先的漫画 / 同人志管理与阅读一体化工具，对标 LANraragi 核心体验，聚焦本地漫画资源的归档整理、元数据智能管理与沉浸式阅读，为漫画爱好者打造私域、可控、高效的个人漫画图书馆。
 - [databk/rustdesk-console](https://github.com/databk/rustdesk-console) - An open-source console designed for self-hosting, as an alternative to RustDesk Server Pro.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [Utopia-V/mixagents](https://github.com/Utopia-V/mixagents) - Harness-native agent components for Codex and Pi: a DeepSeek V4 Flash subagent and a DSH Minimal mimic for V4 Pro.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [cookjohn/zotero-mcp](https://github.com/cookjohn/zotero-mcp) - It's a plugin extension in Zotero.  Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP. Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全
 - [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
