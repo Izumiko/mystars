@@ -695,7 +695,6 @@
 
 ## Others 
 
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client
 - [mdc-ng/mdc-ng](https://github.com/mdc-ng/mdc-ng) - MDC next generation
 - [KyokuSai/HSR](https://github.com/KyokuSai/HSR) - Models trained by us.
 - [vscodev/neokikoeru](https://github.com/vscodev/neokikoeru) - Alternative to Kikoeru, Neokikoeru is a high-performance streaming media server for DLsite voice works—designed to be robust, fast and user-friendly.
@@ -906,6 +905,7 @@
 ## Rust 
 
 - [Gloridust/WowType](https://github.com/Gloridust/WowType) - 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入、实时翻译，越用越懂你。
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - Plug-in media player
 - [PinkD/corplink-rs](https://github.com/PinkD/corplink-rs) - 使用 rust 实现的飞连客户端
 - [kmworks/kmrs](https://github.com/kmworks/kmrs) - Full-featured Komga drop-in replacement in Rust: CBZ/CBR/PDF/EPUB, same API and database, plus enhancements. Single static binary, bundled web UI, small footprint.
 - [ELY-Open-Source/ELYTerminal](https://github.com/ELY-Open-Source/ELYTerminal) - A terminal on GPUI and Ely components
