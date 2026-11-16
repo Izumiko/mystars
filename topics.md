@@ -338,7 +338,7 @@
 ## android 
 
 - [mitschud/DirtyFrag](https://github.com/mitschud/DirtyFrag) - Ephemeral root via the CVE-2026-43284 page-cache exploit
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - Plug-in media player
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 - [UNITRONIX/BetterDesk](https://github.com/UNITRONIX/BetterDesk) - BetterDesk Console - Ultimate Free Remote Desktop Solution
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
@@ -2702,7 +2702,7 @@
 
 ## windows 
 
-- [Minireel/HGhub](https://github.com/Minireel/HGhub) - YellowFruit third-party client
+- [Minireel/HGhub](https://github.com/Minireel/HGhub) - Plug-in media player
 - [UNITRONIX/BetterDesk](https://github.com/UNITRONIX/BetterDesk) - BetterDesk Console - Ultimate Free Remote Desktop Solution
 - [dengxibo/sumatrapdf-plus](https://github.com/dengxibo/sumatrapdf-plus) - SumatraPDF fork: Chinese EPUB/MOBI, smart PDF dark mode, OCR, TTS, offline dictionary.
 - [aprillz/MewUI](https://github.com/aprillz/MewUI) - A cross-platform and lightweight, code-first .NET GUI framework aimed at NativeAOT.
