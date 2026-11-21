@@ -324,7 +324,7 @@
 - [Zhenyu98/codex-chatgpt-bridge](https://github.com/Zhenyu98/codex-chatgpt-bridge) - A safe bridge for Codex and ChatGPT to hand off coding work, save tokens, and keep local execution under control.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [Utopia-V/mixagents](https://github.com/Utopia-V/mixagents) - Cross-provider subagents for Codex (MixAgents Broker), plus pi-dsh-mimic, a DeepSeek V4 Pro first-request extension for Pi.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
@@ -417,7 +417,7 @@
 
 ## automation 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [Nriver/qb-rss-manager](https://github.com/Nriver/qb-rss-manager) - qBittorrent rss订阅规则管理,  支持Docker环境, 群晖, Windows桌面, Linux桌面的qb. 推荐直接使用懒人包体验完整功能.
 - [Nriver/Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
@@ -467,7 +467,7 @@
 
 ## bot 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [Taosky/telegram-search-bot](https://github.com/Taosky/telegram-search-bot) - 【官方现已支持 CJK 搜索】A telegram group record search bot that solves the problem of direct search inability in languages such as CJK / Telegram 群聊天记录搜索Bot，解决CJK等语言无法直接搜索问题
 
@@ -567,7 +567,7 @@
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 - [titanwings/distilly](https://github.com/titanwings/distilly) - Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [yjl9903/AnimeGarden](https://github.com/yjl9903/AnimeGarden) - 動漫花園 镜像站 | 动画 BT 资源聚合站 | 动画 BT 资源开放接口
@@ -1946,7 +1946,7 @@
 - [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers) - The fastest open-source C++17 optimization library for unconstrained nonlinear problems. Header-only, single dependency. Highest reliability, composable function expressions, unconstrained and constra
 - [stevengj/nlopt](https://github.com/stevengj/nlopt) - library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization
 - [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes) - FDUPES is a program for identifying or deleting duplicate files residing within specified directories.
-- [yjun123/e-waste](https://github.com/yjun123/e-waste) - electronic waste collection. 数码视讯 Q5, 泰奇猫 TQC-A01, 贝壳云 Beikeyun P1, 网心云 OEC Turbo,   外贸盒子 A5X Max,FMX1 电视盒子, 保千里 SC150MBN1 汽车夜视系统图传,  云盒 Sensoro SmartBeacon-4AA, 云子 Sensoro Yunzi, 若琪 繁星 Rokid Mini RP1
+- [yjun123/e-waste](https://github.com/yjun123/e-waste) - electronic waste collection. Q5, TQC-A01, Beikeyun P1, OEC Turbo, A5X Max,FMX1, SC150MBN1,  Sensoro SmartBeacon-4AA, Sensoro Yunzi, Rokid Mini RP105, Redmi Note 4G, Sunniwell Z96A, Xerox ET1020, 9Trip
 - [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
 - [jellyfin/jellyfin-plugin-anilist](https://github.com/jellyfin/jellyfin-plugin-anilist) - 
 - [irwir/eMule](https://github.com/irwir/eMule) - Continuing development of eMule
@@ -2534,7 +2534,7 @@
 
 ## terminal 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
