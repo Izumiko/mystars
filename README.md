@@ -98,7 +98,7 @@
 - [tsl0922/EPD-nRF5](https://github.com/tsl0922/EPD-nRF5) - E-paper display firmware for Nordic nRF51/nRF52, with support for image transfer, OTA update.
 - [dengxibo/sumatrapdf-plus](https://github.com/dengxibo/sumatrapdf-plus) - SumatraPDF fork: Chinese EPUB/MOBI, smart PDF dark mode, OCR, TTS, offline dictionary.
 - [adonais/skylark](https://github.com/adonais/skylark) - Skylark Editor is written in C, a high performance text/hex editor.  Embedded Database-client/Redis-client/Lua-engine.  You can run Lua scripts and SQL files directly.
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxy Client to force proxy to any Windows, MacOS, Linux, Android & iOS Application TCP and UDP traffic
 - [vtumi/pico-fido](https://github.com/vtumi/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 - [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager for Windows and Linux
 - [Nevuly/WSL2-Linux-Kernel-Rolling-LTS](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS) - Rolling Release LTS Kernel for WSL2
@@ -216,7 +216,6 @@
 - [ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - 🌈A rich set of enterprise-class UI components based on Ant Design and Blazor.
 - [WebVella/WebVella-ERP](https://github.com/WebVella/WebVella-ERP) - Free and open-source pluggable ERP and CRM software based on ASP.NET Core 9, RazorPages and PostgreSQL . Targets Linux or Windows as host OS.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
-- [foxofice/sub_share](https://github.com/foxofice/sub_share) - 字幕共享计划
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types t
@@ -396,6 +395,7 @@
 - [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 插件化、无广告的免费音乐服务器
 - [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
+- [rclone/rclone-ui](https://github.com/rclone/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [zt8989/eNode-go](https://github.com/zt8989/eNode-go) - 
 - [fireinrain/asmr-downloader](https://github.com/fireinrain/asmr-downloader) - A tool for download asmr media from asmr.one(Thanks for the asmr.one)
 - [anytls/anytls-go](https://github.com/anytls/anytls-go) - 
@@ -532,6 +532,7 @@
 
 ## JavaScript 
 
+- [huilang-me/CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) - 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [UNITRONIX/BetterDesk](https://github.com/UNITRONIX/BetterDesk) - BetterDesk Console - Ultimate Free Remote Desktop Solution
 - [l429609201/dd-danmaku](https://github.com/l429609201/dd-danmaku) - 这是一个为 Emby 设计的弹幕插件，它能够从弹弹play获取弹幕并显示在播放器中。
@@ -936,7 +937,6 @@
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [flandia/sna](https://github.com/flandia/sna) - An external tool to add "Extract Here (Smart)" on Windows.
 - [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
@@ -964,6 +964,7 @@
 - [nwtgck/piping-server-rust](https://github.com/nwtgck/piping-server-rust) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [calebwin/emu](https://github.com/calebwin/emu) - The write-once-run-anywhere GPGPU library for Rust
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+- [foxofice/sub_share](https://github.com/foxofice/sub_share) - 字幕共享计划
 - [google/OpenSK](https://github.com/google/OpenSK) - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 
@@ -1011,7 +1012,7 @@
 - [MrChromebox/scripts](https://github.com/MrChromebox/scripts) - Scripts for setup/install/firmware update for ChromeOS devices
 - [Synlvejo/buaalogin](https://github.com/Synlvejo/buaalogin) - a script for linux system to login to visit Internet
 - [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorrent-nox binary with current dependencies to use on any Linux OS
-- [yjun123/e-waste](https://github.com/yjun123/e-waste) - electronic waste collection. 数码视讯 Q5, 泰奇猫 TQC-A01, 贝壳云 Beikeyun P1, 网心云 OEC Turbo,   外贸盒子 A5X Max,FMX1 电视盒子, 保千里 SC150MBN1 汽车夜视系统图传,  云盒 Sensoro SmartBeacon-4AA, 云子 Sensoro Yunzi, 若琪 繁星 Rokid Mini RP1
+- [yjun123/e-waste](https://github.com/yjun123/e-waste) - electronic waste collection. Q5, TQC-A01, Beikeyun P1, OEC Turbo, A5X Max,FMX1, SC150MBN1,  Sensoro SmartBeacon-4AA, Sensoro Yunzi, Rokid Mini RP105, Redmi Note 4G, Sunniwell Z96A, Xerox ET1020, 9Trip
 - [hare1039/iwara-dl](https://github.com/hare1039/iwara-dl) - This program downloads iwara.tv videos
 - [sineverba/cfhookbash](https://github.com/sineverba/cfhookbash) - Cloudflare hook bash for dehydrated - DNS-01 Challenge Let's Encrypt
 - [azlux/log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
@@ -1054,12 +1055,11 @@
 - [databk/rustdesk-console](https://github.com/databk/rustdesk-console) - An open-source console designed for self-hosting, as an alternative to RustDesk Server Pro.
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - [Utopia-V/mixagents](https://github.com/Utopia-V/mixagents) - Cross-provider subagents for Codex (MixAgents Broker), plus pi-dsh-mimic, a DeepSeek V4 Pro first-request extension for Pi.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - The unified toolchain and entry point for web development.
 - [cookjohn/zotero-mcp](https://github.com/cookjohn/zotero-mcp) - It's a plugin extension in Zotero.  Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP. Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全
 - [casnode/casnode](https://github.com/casnode/casnode) - Open-source forum with the look and features of Discourse, built with Go, Next.js and Casdoor SSO. Works with MySQL, PostgreSQL, SQLite and SQL Server
 - [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre) - A local-first LaTeX & Typst web editor with real-time collaboration & offline support
-- [rclone/rclone-ui](https://github.com/rclone/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
@@ -1088,9 +1088,10 @@
 - [Danmaku-Anywhere/danmaku-anywhere](https://github.com/Danmaku-Anywhere/danmaku-anywhere) - 一个可以给几乎任何视频网站添加弹幕的开源软件 | An open source solution to add danmaku to almost every video website
 - [xxyz30/Any-Danmaku](https://github.com/xxyz30/Any-Danmaku) - 在浏览器的Video标签上播放弹幕，使用弹弹Play的Api
 - [CerealKillerjs/Overtracker_bun](https://github.com/CerealKillerjs/Overtracker_bun) - 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [mebtte/cicada](https://github.com/mebtte/cicada) - 🎵 💻 📱 A multi-user music service for self-hosting.
-- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best application for all of your cloud storage
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - Sync all of your cloud storage in one place
 - [mumu-lhl/duckduckgo-ai-chat-service](https://github.com/mumu-lhl/duckduckgo-ai-chat-service) - Use Duckduckgo AI Chat to provide an OpenAI-compatible API that can be used for free with o3-mini.
 - [scitedotai/scite-zotero-plugin](https://github.com/scitedotai/scite-zotero-plugin) - See how your saved papers are cited. Supporting, contrasting, and mentioning counts appear directly in your Zotero library.
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
