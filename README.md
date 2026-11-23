@@ -101,6 +101,7 @@
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxy Client to force proxy to any Windows, MacOS, Linux, Android & iOS Application TCP and UDP traffic
 - [vtumi/pico-fido](https://github.com/vtumi/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
 - [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager for Windows and Linux
+- [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 - [Nevuly/WSL2-Linux-Kernel-Rolling-LTS](https://github.com/Nevuly/WSL2-Linux-Kernel-Rolling-LTS) - Rolling Release LTS Kernel for WSL2
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [saltpi/iPlay](https://github.com/saltpi/iPlay) - Enjoy Media Everywhere, On Every Platform 👀
@@ -239,7 +240,6 @@
 - [ModderMule/emule-qt](https://github.com/ModderMule/emule-qt) - A port of the eMule client to use Qt framework to be platform independent and more modern. Supports usenet + torrent + file hoster downloads.
 - [banderzhm/cnetmod](https://github.com/banderzhm/cnetmod) - Modern C++23 Modules asynchronous network library, cross-platform, stackless coroutine
 - [InWILL/Locale_Remulator](https://github.com/InWILL/Locale_Remulator) - System Region and Language Simulator.
-- [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 - [AlkaidLab/foundation-sunshine](https://github.com/AlkaidLab/foundation-sunshine) - Sunshine fork: an enhanced sunshine, a self-hosted game streaming host for Moonlight with HDR10/HDR Vivid, virtual displays, advanced audio, optimized encoders, and a modern control panel.
 - [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 - [nccrrv/Top-AMS](https://github.com/nccrrv/Top-AMS) - 
@@ -534,7 +534,7 @@
 
 - [huilang-me/CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) - 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-- [UNITRONIX/BetterDesk](https://github.com/UNITRONIX/BetterDesk) - BetterDesk Console - Ultimate Free Remote Desktop Solution
+- [UNITRONIX/BetterDesk](https://github.com/UNITRONIX/BetterDesk) - Self-hosted RustDesk-compatible server in Go (one binary instead of hbbs + hbbr) plus a Node.js web console.
 - [l429609201/dd-danmaku](https://github.com/l429609201/dd-danmaku) - 这是一个为 Emby 设计的弹幕插件，它能够从弹弹play获取弹幕并显示在播放器中。
 - [Rivers47/Kikoenai](https://github.com/Rivers47/Kikoenai) - Self hosted ASMR server
 - [Hmily-LCG/FlowMouse](https://github.com/Hmily-LCG/FlowMouse) - 一款追求极致流畅的开源鼠标手势扩展。指尖滑动，进入心流。支持手势导航、超级拖拽、滚轮手势、特殊手势，并可自定义所有手势及更多功能。 / An open-source mouse gesture extension designed for ultimate smoothness. Swipe your fingertips, enter the Flow. Supports gesture nav
@@ -561,7 +561,7 @@
 - [EFFXCT290/NexusTracker](https://github.com/EFFXCT290/NexusTracker) - A modern private BitTorrent tracker platform
 - [lyz05/danmaku](https://github.com/lyz05/danmaku) - 在线视频网站弹幕解析工具，支持 B站， 芒果TV， 腾讯视频， 优酷， 爱奇艺， 巴哈姆特動畫瘋
 - [xnx3/translate](https://github.com/xnx3/translate) - AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
+- [electerm/electerm](https://github.com/electerm/electerm) - Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) - A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
 - [seadfeng/favicons-proxy](https://github.com/seadfeng/favicons-proxy) - 
@@ -639,6 +639,7 @@
 
 ## Kotlin 
 
+- [wess09/AzurPilot-for-Android](https://github.com/wess09/AzurPilot-for-Android) - AzurPilot 安卓版本 基于ALAS-AOS
 - [Mister-album/Koharia](https://github.com/Mister-album/Koharia) - Koharia 是一款面向 Komga、Kavita、LANraragi、smanga、Suwayomi 服务器与本地媒体库的第三方 Android 客户端和阅读器 / Koharia is a third-party Android client and reader for Komga, Kavita, LANraragi, smanga, and Suwayomi servers, as w
 - [rebelonion/echo-asmr-one](https://github.com/rebelonion/echo-asmr-one) - asmr.one extension for echo
 - [brahmkshatriya/echo](https://github.com/brahmkshatriya/echo) - Just a music player.
@@ -1105,7 +1106,7 @@
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [IwaraEnhance/IwaraDownloadTool](https://github.com/IwaraEnhance/IwaraDownloadTool) - Iwara 下载工具 | Iwara Downloader
-- [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 程序员鱼皮原创项目，免费的闯关交互式 SQL 自学教程网站，从零基础到进阶，带你掌握常用 SQL 语法（MySQL、SQLite、PostgreSQL）、快速学习 SQL 和数据库。支持在线SQL编辑器、实时查询结果、语法高亮、SQL运行广场等功能。纯前端实现，简单易学~
+- [liyupi/sql-mother](https://github.com/liyupi/sql-mother) - 程序员鱼皮编程导航原创开源项目，一款免费且纯前端实现的闯关交互式 SQL 自学教程网站（Interactive SQL Learning Platform），帮助零基础用户、程序员与数据分析师通过实战快速掌握 MySQL、SQLite、PostgreSQL 等常用 SQL 数据库语法。项目内置 30 个体系化主线关卡、15 个趣味实战自定义关卡和自由运行的 SQL 练习广场，基于 Vue 3 + 
 - [nickperkins/opine](https://github.com/nickperkins/opine) - Opine is a very simple comments api for a static blog site that runs on Cloudflare Workers
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.
 - [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Browser-native component library, framework-agnostic, base on web components.(企业级 H5 UI 组件库，无框架，即插即用。)
